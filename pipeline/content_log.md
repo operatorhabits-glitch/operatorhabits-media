@@ -5,7 +5,7 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | Date | Slot | Type | Pillar | Topic | Files | Buffer id | Status |
 |---|---|---|---|---|---|---|---|
 | 2026-10-11 | 12:06 | carousel | Energy | The founder's morning, in 5 moves | week1/operatorhabits_day1_carousel_1..7.png | 6acb5ec5ed92ed8fa5fbaba9 | sent |
-| 2026-10-11 | 18:00 | reel | Energy | Your 3pm crash started at 7am | week1/operatorhabits_day1_reel.mp4 | 6acb5d39c4de2d2b1257c462 | scheduled |
+| 2026-10-11 | 18:00 | reel | Energy | Your 3pm crash started at 7am | week1/operatorhabits_day1_reel.mp4 | 6acb5d39c4de2d2b1257c462 | sent |
 | 2026-10-12 | 13:00 | carousel | Focus | How to set up a 90-minute deep work block | week1/operatorhabits_day2_carousel_1..7.png | 6acb5ecfbba9419ccb3022cb | scheduled |
 | 2026-10-12 | 18:00 | reel | Focus | The 23-minute problem (interruptions) | week1/operatorhabits_day2_reel.mp4 | 6acb5ed3f91f772d45c2e5ba | scheduled |
 | 2026-10-13 | 13:00 | carousel | Money | Know your runway in 4 steps | week1/operatorhabits_day3_carousel_1..6.png | 6acb5ed9ed92ed8fa5fbaea4 | scheduled |
