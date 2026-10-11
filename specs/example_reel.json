@@ -1,0 +1,11 @@
+{"shift": 1, "scenes": [
+ {"size": 158, "lines": ["You don't have a *time problem."]},
+ {"size": 150, "lines": ["You have a *23-minute|twenty-three_minute problem."]},
+ {"size": 112, "lines": ["After one interruption, it takes about *23|twenty-three *minutes to get back on task."]},
+ {"size": 124, "lines": ["Five pings a day.", "Almost two hours *gone."]},
+ {"size": 128, "num": "01", "lines": ["|One. Block *90|ninety *minutes."]},
+ {"size": 128, "num": "02", "lines": ["|Two. Phone in *another room."]},
+ {"size": 128, "num": "03", "lines": ["|Three. One task. *Nothing else."]},
+ {"size": 132, "lines": ["Protect the *block.", "The block protects the *business."]},
+ {"size": 128, "lines": ["Follow for *one habit a day."]}
+]}
