@@ -10,8 +10,8 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-12 | 18:00 | reel | Focus | The 23-minute problem (interruptions) | week1/operatorhabits_day2_reel.mp4 | 6acb5ed3f91f772d45c2e5ba | scheduled |
 | 2026-10-13 | 13:00 | carousel | Money | Know your runway in 4 steps | week1/operatorhabits_day3_carousel_1..6.png | 6acb5ed9ed92ed8fa5fbaea4 | scheduled |
 | 2026-10-13 | 18:00 | reel | Money | Revenue vs runway | week1/operatorhabits_day3_reel.mp4 | 6acb5edcc4de2d2b12583848 | scheduled |
-| 2026-10-14 | 13:00 | carousel | Energy | 6 sleep rules for people who work late | week1/operatorhabits_day4_carousel_1..8.png | | ready |
-| 2026-10-14 | 18:00 | reel | Energy | The cheapest performance upgrade is 7 hours | week1/operatorhabits_day4_reel.mp4 | | ready |
+| 2026-10-14 | 13:00 | carousel | Energy | 6 sleep rules for people who work late | week1/operatorhabits_day4_carousel_1..8.png | 6acc7523fa026cfb812a1216 | scheduled |
+| 2026-10-14 | 18:00 | reel | Energy | The cheapest performance upgrade is 7 hours | week1/operatorhabits_day4_reel.mp4 | 6acc7526ea568e911a536410 | scheduled |
 | 2026-10-15 | 13:00 | carousel | Mindset | 5 defaults that take decisions off your day | week1/operatorhabits_day5_carousel_1..7.png | | ready |
 | 2026-10-15 | 18:00 | reel | Mindset | Motivation is a bad employee | week1/operatorhabits_day5_reel.mp4 | | ready |
 | 2026-10-16 | 13:00 | carousel | Mindset | The hard day rule: never miss twice | week1/operatorhabits_day6_carousel_1..6.png | | ready |
