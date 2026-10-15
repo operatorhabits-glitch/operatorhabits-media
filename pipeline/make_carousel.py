@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 """Render a carousel from a JSON spec.  Usage: make_carousel.py spec.json out_prefix
 Writes <out_prefix>_1.png ... _N.png (1080x1350) and <out_prefix>_sheet.png for checking.
-Spec: {"slides": [{"tag": "hook"|"01".."09"|"end", "title": "Text with *accent words.", "body": "Plain text."}]}"""
+Spec: {"slides": [{"tag": "hook"|"01".."09"|"end", "title": "Text with *accent words.", "body": "Plain text.",
+                   "bg": "path/to/photo.jpg" or {"src": ..., "focus": [0.5,0.4], "dim": 0.5} (optional)}]}
+A slide with "bg" gets the real photo full-bleed, brand-graded, with a scrim behind the text (see bgmedia.py).
+A spec-level "bg" applies to every slide without its own."""
 import numpy as np, sys, json, os
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import bgmedia
 HERE=os.path.dirname(os.path.abspath(__file__))
 W,H=1080,1350; BG=(14,15,17);FG=(244,242,236);AC=(198,255,61); X0=96; MAXW=W-2*X0
 F=lambda n,s:ImageFont.truetype(HERE+"/fonts/"+n,s)
@@ -24,7 +28,9 @@ def build(spec,prefix):
     slides=spec["slides"]; n=len(slides); outs=[]
     for i,s in enumerate(slides):
         tag,title,body=s["tag"],s["title"],s.get("body","")
-        im=Image.new("RGB",(W,H),BG); im.paste(glowc,(-420+i*90,560-i*40),glow); im=im.convert("RGBA")
+        b=bgmedia.norm(s.get("bg",spec.get("bg")))
+        if b: im=Image.alpha_composite(bgmedia.photo(b,W,H).convert("RGBA"),bgmedia.scrim(W,H,0.62,0.5))
+        else: im=Image.new("RGB",(W,H),BG); im.paste(glowc,(-420+i*90,560-i*40),glow); im=im.convert("RGBA")
         ov=Image.new("RGBA",(W,H),(0,0,0,0)); d=ImageDraw.Draw(ov)
         d.ellipse([X0,104,X0+18,122],fill=AC+(255,)); x=X0+34
         for c in "OPERATOR HABITS": d.text((x,95),c,font=F("Inter-Bold.otf",30),fill=FG+(165,)); x+=d.textlength(c,font=F("Inter-Bold.otf",30))+5
@@ -43,6 +49,9 @@ def build(spec,prefix):
             cx=X0+j*30; d.ellipse([cx,1232,cx+12,1244],fill=(AC if j==i else FG)+((255 if j==i else 70),))
         if i<n-1:
             ax=W-X0; d.line([ax-70,1238,ax,1238],fill=FG+(200,),width=5); d.line([ax-22,1218,ax,1238,ax-22,1258],fill=FG+(200,),width=5,joint="curve")
+        if b:
+            sh=Image.new("RGBA",(W,H),(0,0,0,0)); sh.putalpha(ov.getchannel("A").point(lambda a:a*0.75).filter(ImageFilter.GaussianBlur(12)))
+            im=Image.alpha_composite(im,sh)
         o=f"{prefix}_{i+1}.png"; Image.alpha_composite(im,ov).convert("RGB").save(o); outs.append(o)
     sheet=Image.new("RGB",(270*n,338))
     for i,o in enumerate(outs): sheet.paste(Image.open(o).resize((270,338)),(i*270,0))

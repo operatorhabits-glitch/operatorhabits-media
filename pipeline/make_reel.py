@@ -3,9 +3,14 @@
 Spec: {"shift": 0, "scenes": [{"size": 150, "num": "01"(optional), "lines": ["text ..."]}]}
 Line syntax: words separated by spaces. "*word" = accent colour. "shown|spoken_words" = show one
 thing, speak another (underscores = spaces), e.g. "*23|twenty-three". "|One." = spoken only.
+Real footage: add "bg" to a scene (or to the spec as a default for scenes without one):
+  "bg": "pipeline/.cache/stock/pexels_123.mp4"  or  {"src": ..., "start": 2, "focus": [0.5,0.4], "dim": 0.5}
+Video clips play under the text; photos get a slow push-in. See pipeline/bgmedia.py. Scenes without
+a bg use the plain dark brand background.
 Also writes <out>.sheet.png (one frame per scene) for visual checking."""
 import numpy as np, soundfile as sf, subprocess, sys, json, os, tempfile
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import bgmedia
 from kokoro_onnx import Kokoro
 HERE=os.path.dirname(os.path.abspath(__file__))
 W,H,FPS=1080,1920,30
@@ -70,18 +75,27 @@ def build(spec,out):
             cum=np.concatenate([[0],np.cumsum(w)])/sum(w)
             sc["lt"].append({"start":t,"wt":[t+d*c for c in cum[:-1]]}); voice.append((t,a)); t+=d+0.16
         t+=0.20; sc["end"]=t-0.12; layout(sc)
-    scenes[0]["start"]=0; TOTAL=t+0.5
+    scenes[0]["start"]=0; TOTAL=t+0.5; scenes[-1]["end"]=TOTAL
+    for sc in scenes:
+        b=bgmedia.norm(sc.get("bg",spec.get("bg")))
+        sc["clip"]=bgmedia.Clip(b,W,H,FPS,sc["end"]-sc["start"]) if b else None
     v=np.zeros(int(TOTAL*SR)+SR*8,dtype=np.float32)
     for st,a in voice: i=int(st*SR); v[i:i+len(a)]+=a
     v=v[:int(TOTAL*SR)]; v*=0.9/np.abs(v).max(); sf.write(tmp+"/voice.wav",v,SR); sf.write(tmp+"/music.wav",music(TOTAL,shift),44100)
     def frame(tm):
-        im=Image.new("RGB",(W,H),BG)
-        im.paste(glowc,(int(-500+260*np.sin(tm*0.22+shift)),int(700+320*np.cos(tm*0.17+shift))),glow)
-        im=im.convert("RGBA"); ov=Image.new("RGBA",(W,H),(0,0,0,0)); d=ImageDraw.Draw(ov)
+        cur=[s for s in scenes if s["start"]<=tm<s["end"]] or [scenes[-1]]; sc=cur[0]
+        if sc["clip"]:
+            im=sc["clip"].frame(tm-sc["start"]).convert("RGBA")
+            im=Image.alpha_composite(im,bgmedia.scrim(W,H,0.5,(sc["y0"]+sc["h"]/2)/H))
+        else:
+            im=Image.new("RGB",(W,H),BG)
+            im.paste(glowc,(int(-500+260*np.sin(tm*0.22+shift)),int(700+320*np.cos(tm*0.17+shift))),glow)
+            im=im.convert("RGBA")
+        ov=Image.new("RGBA",(W,H),(0,0,0,0)); d=ImageDraw.Draw(ov)
         d.ellipse([X0,318,X0+18,336],fill=AC+(255,)); x=X0+34
         for c in "OPERATOR HABITS":
             d.text((x,309),c,font=F(BOLD,30),fill=FG+(165,)); x+=F(BOLD,30).getlength(c)+5
-        cur=[s for s in scenes if s["start"]<=tm<s["end"]] or [scenes[-1]]; sc=cur[0]; first=sc is scenes[0]
+        first=sc is scenes[0]
         e=1.0 if first else ease((tm-sc["start"])/0.22); off=int((1-e)*34); f=F(BLACK,sc["fsize"])
         if sc.get("num"): d.text((X0,sc["y0"]+off),sc["num"],font=F(BLACK,96),fill=AC+(int(255*e),))
         for (w,x,y,acc,li,wi) in sc["words"]:
@@ -90,6 +104,9 @@ def build(spec,out):
             lit=min(max((tm-lt["wt"][wi]+0.04)/0.09,0),1); a=(0.26+0.74*lit)*e
             col=tuple(int(FG[i]+(AC[i]-FG[i])*lit) for i in range(3)) if acc else FG
             d.text((X0+x,sc["y0"]+y+off),w,font=f,fill=col+(int(255*a),))
+        if sc["clip"]:  # soft shadow so text holds up on busy footage
+            sh=Image.new("RGBA",(W,H),(0,0,0,0)); sh.putalpha(ov.getchannel("A").point(lambda a:a*0.7).filter(ImageFilter.GaussianBlur(14)))
+            im=Image.alpha_composite(im,sh)
         return Image.alpha_composite(im,ov).convert("RGB")
     p=subprocess.Popen(["ffmpeg","-loglevel","error","-y","-f","rawvideo","-pix_fmt","rgb24","-s",f"{W}x{H}","-r",str(FPS),"-i","-","-i",tmp+"/voice.wav","-i",tmp+"/music.wav",
      "-filter_complex","[0:v]noise=alls=3[v];[1:a]aresample=44100[a1];[2:a]volume=0.22[a2];[a1][a2]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]",
@@ -99,6 +116,8 @@ def build(spec,out):
     n=len(scenes); sheet=Image.new("RGB",(270*n,480))
     for i,s in enumerate(scenes): sheet.paste(frame(s["end"]-0.15).resize((270,480)),(i*270,0))
     sheet.save(out+".sheet.png")
+    for s in scenes:
+        if s["clip"]: s["clip"].close()
     print(json.dumps({"out":out,"seconds":round(TOTAL,1),"font_sizes":[s["fsize"] for s in scenes]}))
 if __name__=="__main__":
     build(json.load(open(sys.argv[1])),sys.argv[2])

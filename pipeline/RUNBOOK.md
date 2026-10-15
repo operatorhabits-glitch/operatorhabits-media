@@ -46,6 +46,9 @@ Goal: every day from today through the day after tomorrow has one carousel at 13
 5. Record the Buffer post id and status in `pipeline/content_log.md`.
 
 ### 5. Create new content
+- **Look (from 2026-10-15, Mateo's request): real footage and real photos under the text.** Every new reel uses real video clips as the background of most scenes (a still photo is fine for one or two scenes); every new carousel uses a real photo on at least the hook slide, and on list slides where a photo fits the point. Text stays on top in the brand style, as before. The plain dark background is only for the final "Follow" scene/slide, or as a fallback when no fitting footage exists.
+- Get media with `python3 pipeline/fetch_media.py video "<query>"` or `... photo "<query>"` (Pexels, then Pixabay; free licences, keys in env `PEXELS_API_KEY` / `PIXABAY_API_KEY`). Files go to `pipeline/.cache/stock/` (not committed); credits are logged in `content/media_credits.md` automatically. Look at a frame of each clip before using it. Pick footage that shows the idea (hands on a keyboard, a phone face-down, morning light, a notebook, a city at dawn), not generic "success" imagery. Never use a clip with a visible brand/logo or a famous person, and never present a stock person as the account owner or a client.
+- Add `"bg"` to reel scenes and carousel slides in the spec (syntax at the top of `pipeline/bgmedia.py`). If stock media cannot be fetched (no key, network blocked), make the content in the plain style so the queue stays full, and report it as needing Mateo.
 - Pick topics by pillar share and by what `learnings.md` says works. Never repeat a topic already in `content_log.md`; a new angle on a strong topic is fine.
 - Reel: write a spec like `specs/example_reel.json` (syntax is documented at the top of `pipeline/make_reel.py`), then `python3 pipeline/make_reel.py specs/<date>_reel.json media/<date>/operatorhabits_<date>_reel.mp4`. Target 15 to 30 seconds, hook in scene 1, last scene "Follow for *one habit a day."
 - Carousel: write a spec like `specs/example_carousel.json`, then `python3 pipeline/make_carousel.py specs/<date>_carousel.json media/<date>/operatorhabits_<date>_carousel`. 5 to 8 slides, first slide `hook`, last slide `end` with body "Follow @operatorhabits for one habit a day."
@@ -64,7 +67,7 @@ End the run with a short report for Mateo, plain language, most important first:
 ## Content rules (never break)
 - Every health claim must be traceable to published research or an official guideline; note the source in `content/captions.md`. No medical advice, no supplement dosing, no cures, no weight-loss promises.
 - No income promises or guarantees.
-- Original text and designs only. No reposted clips, no copyrighted music, no other accounts' content, no real people's names used as endorsement.
+- Original text and designs only. No reposted clips, no copyrighted music, no other accounts' content, no real people's names used as endorsement. Free-licence stock footage and photos (Pexels, Pixabay) used as backgrounds under our own text and edit are allowed and must be logged in `content/media_credits.md`.
 - No fake urgency, no engagement bait ("comment YES"), no bought followers, no bots, no mass follow/unfollow.
 - Do not change account settings, delete published posts, or connect new services.
 

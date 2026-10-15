@@ -2,3 +2,5 @@ pipeline/.cache/
 __pycache__/
 *.wav
 chk_*.png
+*_sheet.png
+*.sheet.png
