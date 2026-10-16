@@ -18,5 +18,8 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-16 | 18:00 | reel | Focus | Walk before you decide | week1/operatorhabits_day6_reel.mp4 | 6acf186cf847f2ad9ec4bf95 | scheduled |
 | 2026-10-17 | 13:00 | carousel | Mindset | The 20-minute weekly review | week1/operatorhabits_day7_carousel_1..7.png | 6ad069adbaaf8bed1cfe19bc | scheduled |
 | 2026-10-17 | 18:00 | reel | Mindset | Sunday, 20 minutes, 3 questions | week1/operatorhabits_day7_reel.mp4 | 6ad069b08b6f374826e05199 | scheduled |
-| 2026-10-18 | 13:00 | carousel | Money | The 48-hour rule for spending over €200 | media/2026-10-18/operatorhabits_2026-10-18_carousel_1..7.png | | ready |
-| 2026-10-18 | 18:00 | reel | Focus | Check email 3 times a day, not 30 | media/2026-10-18/operatorhabits_2026-10-18_reel.mp4 | | ready |
+| 2026-10-18 | 13:00 | carousel | Money | The 48-hour rule for spending over €200 | media/2026-10-18/operatorhabits_2026-10-18_carousel_1..7.png | 6ad1bb9f9597cd16626b75be | scheduled |
+| 2026-10-18 | 18:00 | reel | Focus | Check email 3 times a day, not 30 | media/2026-10-18/operatorhabits_2026-10-18_reel.mp4 | 6ad1bba2ee2c696029bfa32a | scheduled |
+
+Notes:
+- 2026-10-16: stock footage unavailable (no PEXELS_API_KEY / PIXABAY_API_KEY in the run environment); 2026-10-18 pair made in plain style. Reported to Mateo by notification on 2026-10-16.
