@@ -182,3 +182,29 @@ Save it and run it this weekend.
 Follow @operatorhabits for one habit a day.
 
 #founderhabits #weeklyreview #planning #productivitytips #entrepreneurmindset
+
+## 2026-10-18 carousel — the 48-hour spending rule (Money)
+Any spend over €200 waits 48 hours.
+
+Write it down, wait two days, then ask one question: does it make or save money?
+
+One in, one out for subscriptions. Check them monthly.
+
+What's the last tool you paid for and stopped using?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #cashflow #smallbusiness #businesstips #entrepreneurmindset
+
+## 2026-10-18 reel — email 3 times a day (Focus)
+Check email 3 times a day. Not 30.
+
+Pick three slots. Keep the inbox closed in between. Turn email alerts off.
+
+How many times did you check today?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Kushlev & Dunn 2015, "Checking email less frequently reduces stress", Computers in Human Behavior 43:220–228 (limiting email checks to three times a day lowered daily stress).

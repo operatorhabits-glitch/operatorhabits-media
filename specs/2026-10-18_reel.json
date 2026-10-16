@@ -1,0 +1,8 @@
+{"shift": 2, "scenes": [
+ {"size": 150, "lines": ["Check email *3|three *times a day.", "Not *30.|thirty."]},
+ {"size": 116, "lines": ["In one study, people who did this felt *less stressed."]},
+ {"size": 128, "num": "01", "lines": ["|One. Pick *three slots."]},
+ {"size": 128, "num": "02", "lines": ["|Two. Inbox *closed in between."]},
+ {"size": 128, "num": "03", "lines": ["|Three. Email alerts *off."]},
+ {"size": 128, "lines": ["Follow for *one habit a day."]}
+]}
