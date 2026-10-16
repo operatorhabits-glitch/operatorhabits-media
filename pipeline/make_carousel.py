@@ -4,10 +4,11 @@ Writes <out_prefix>_1.png ... _N.png (1080x1350) and <out_prefix>_sheet.png for 
 Spec: {"slides": [{"tag": "hook"|"01".."09"|"end", "title": "Text with *accent words.", "body": "Plain text.",
                    "bg": "path/to/photo.jpg" or {"src": ..., "focus": [0.5,0.4], "dim": 0.5} (optional)}]}
 A slide with "bg" gets the real photo full-bleed, brand-graded, with a scrim behind the text (see bgmedia.py).
-A spec-level "bg" applies to every slide without its own."""
+A spec-level "bg" applies to every slide without its own.
+"style": "brand" (default) | "poster" | "journal", per slide or spec-wide. See pipeline/styles.py."""
 import numpy as np, sys, json, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
-import bgmedia
+import bgmedia, styles
 HERE=os.path.dirname(os.path.abspath(__file__))
 W,H=1080,1350; BG=(14,15,17);FG=(244,242,236);AC=(198,255,61); X0=96; MAXW=W-2*X0
 F=lambda n,s:ImageFont.truetype(HERE+"/fonts/"+n,s)
@@ -27,6 +28,9 @@ def rich(d,x,y,line,font):
 def build(spec,prefix):
     slides=spec["slides"]; n=len(slides); outs=[]
     for i,s in enumerate(slides):
+        st=s.get("style",spec.get("style","brand"))
+        if st!="brand":
+            o=f"{prefix}_{i+1}.png"; styles.render(st,s,i,n).save(o); outs.append(o); continue
         tag,title,body=s["tag"],s["title"],s.get("body","")
         b=bgmedia.norm(s.get("bg",spec.get("bg")))
         if b: im=Image.alpha_composite(bgmedia.photo(b,W,H).convert("RGBA"),bgmedia.scrim(W,H,0.62,0.5))

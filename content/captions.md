@@ -208,3 +208,31 @@ Follow @operatorhabits for one habit a day.
 #deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
 
 Source: Kushlev & Dunn 2015, "Checking email less frequently reduces stress", Computers in Human Behavior 43:220–228 (limiting email checks to three times a day lowered daily stress).
+
+## 2026-10-19 carousel — tomorrow's best hour (Energy, poster style)
+Don't trade tomorrow's best hour for tonight's worst one.
+
+The last hour of the night gets tired emails and scrolling. The first hour of the morning gets a fresh head.
+
+Shut the laptop at a set time. Move the hard task to the morning.
+
+What would you stop doing tonight to win tomorrow morning?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #morningroutine #productivitytips #entrepreneurmindset #discipline
+
+Note: no health claims; framed as a work-scheduling habit.
+
+## 2026-10-20 carousel — busy vs important (Mindset, journal style)
+Why does busy feel safer than important?
+
+Busy has a finish line every few minutes. Important work doesn't.
+
+Tomorrow, write down the one thing that would make the day count, and do it before the inbox.
+
+What's the one thing for tomorrow?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #entrepreneurmindset #productivitytips #mindset
