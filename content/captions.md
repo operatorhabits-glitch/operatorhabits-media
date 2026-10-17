@@ -236,3 +236,18 @@ What's the one thing for tomorrow?
 Follow @operatorhabits for one habit a day.
 
 #founderhabits #deepwork #entrepreneurmindset #productivitytips #mindset
+
+## 2026-10-19 reel — phone one room away (Focus)
+Phone one room away. Focus up.
+
+Face-down on the desk still costs you. Silent still costs you.
+
+Put it in another room for your next focus block. Bring it back after.
+
+Where is your phone right now?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Ward, Duke, Gneezy & Bos 2017, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2):140–154 (participants with their phone in another room scored better on working-memory and fluid-intelligence tasks than those with it on the desk, even face-down and silent).

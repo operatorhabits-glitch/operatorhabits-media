@@ -14,13 +14,14 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-14 | 18:00 | reel | Energy | The cheapest performance upgrade is 7 hours | week1/operatorhabits_day4_reel.mp4 | 6acc7526ea568e911a536410 | sent |
 | 2026-10-15 | 13:00 | carousel | Mindset | 5 defaults that take decisions off your day | week1/operatorhabits_day5_carousel_1..7.png | 6acdc7549f22b96ae7f7dd06 | sent |
 | 2026-10-15 | 18:00 | reel | Mindset | Motivation is a bad employee | week1/operatorhabits_day5_reel.mp4 | 6acdc7579f22b96ae7f7dd6b | sent |
-| 2026-10-16 | 13:00 | carousel | Mindset | The hard day rule: never miss twice | week1/operatorhabits_day6_carousel_1..6.png | 6acf186a0d20fd15278076aa | scheduled |
-| 2026-10-16 | 18:00 | reel | Focus | Walk before you decide | week1/operatorhabits_day6_reel.mp4 | 6acf186cf847f2ad9ec4bf95 | scheduled |
+| 2026-10-16 | 13:00 | carousel | Mindset | The hard day rule: never miss twice | week1/operatorhabits_day6_carousel_1..6.png | 6acf186a0d20fd15278076aa | sent |
+| 2026-10-16 | 18:00 | reel | Focus | Walk before you decide | week1/operatorhabits_day6_reel.mp4 | 6acf186cf847f2ad9ec4bf95 | sent |
 | 2026-10-17 | 13:00 | carousel | Mindset | The 20-minute weekly review | week1/operatorhabits_day7_carousel_1..7.png | 6ad069adbaaf8bed1cfe19bc | scheduled |
 | 2026-10-17 | 18:00 | reel | Mindset | Sunday, 20 minutes, 3 questions | week1/operatorhabits_day7_reel.mp4 | 6ad069b08b6f374826e05199 | scheduled |
 | 2026-10-18 | 13:00 | carousel | Money | The 48-hour rule for spending over €200 | media/2026-10-18/operatorhabits_2026-10-18_carousel_1..7.png | 6ad1bb9f9597cd16626b75be | scheduled |
 | 2026-10-18 | 18:00 | reel | Focus | Check email 3 times a day, not 30 | media/2026-10-18/operatorhabits_2026-10-18_reel.mp4 | 6ad1bba2ee2c696029bfa32a | scheduled |
 | 2026-10-19 | 13:00 | carousel | Energy | Don't trade tomorrow's best hour for tonight's worst one (poster style) | media/2026-10-19/operatorhabits_2026-10-19_carousel_1..6.png | 6ad1d80ea82f34dbe15025cf | scheduled |
+| 2026-10-19 | 18:00 | reel | Focus | Phone one room away (phone in another room beats face-down) | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | — | ready |
 | 2026-10-20 | 13:00 | carousel | Mindset | Why busy feels safer than important (journal style) | media/2026-10-20/operatorhabits_2026-10-20_carousel_1..5.png | 6ad1d814ee2c696029c59928 | scheduled |
 
 Notes:

@@ -1,0 +1,8 @@
+{"shift": -2, "scenes": [
+ {"size": 150, "lines": ["Phone *one room away.", "Focus *up."]},
+ {"size": 120, "lines": ["Face-down on the desk *still costs you."]},
+ {"size": 112, "lines": ["In one study, people scored *better with the phone in *another room."]},
+ {"size": 128, "num": "01", "lines": ["|One. Phone *out of the room."]},
+ {"size": 128, "num": "02", "lines": ["|Two. Bring it back *after the block."]},
+ {"size": 128, "lines": ["Follow for *one habit a day."]}
+]}
