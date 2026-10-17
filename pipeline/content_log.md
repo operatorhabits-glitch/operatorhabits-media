@@ -21,7 +21,7 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-18 | 13:00 | carousel | Money | The 48-hour rule for spending over €200 | media/2026-10-18/operatorhabits_2026-10-18_carousel_1..7.png | 6ad1bb9f9597cd16626b75be | scheduled |
 | 2026-10-18 | 18:00 | reel | Focus | Check email 3 times a day, not 30 | media/2026-10-18/operatorhabits_2026-10-18_reel.mp4 | 6ad1bba2ee2c696029bfa32a | scheduled |
 | 2026-10-19 | 13:00 | carousel | Energy | Don't trade tomorrow's best hour for tonight's worst one (poster style) | media/2026-10-19/operatorhabits_2026-10-19_carousel_1..6.png | 6ad1d80ea82f34dbe15025cf | scheduled |
-| 2026-10-19 | 18:00 | reel | Focus | Phone one room away (phone in another room beats face-down) | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | — | ready |
+| 2026-10-19 | 18:00 | reel | Focus | Phone one room away (phone in another room beats face-down) | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | 6ad30d141c7e49ea4c3c8a24 | scheduled |
 | 2026-10-20 | 13:00 | carousel | Mindset | Why busy feels safer than important (journal style) | media/2026-10-20/operatorhabits_2026-10-20_carousel_1..5.png | 6ad1d814ee2c696029c59928 | scheduled |
 
 Notes:
