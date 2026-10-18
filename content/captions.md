@@ -251,3 +251,18 @@ Follow @operatorhabits for one habit a day.
 #deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
 
 Source: Ward, Duke, Gneezy & Bos 2017, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2):140–154 (participants with their phone in another room scored better on working-memory and fluid-intelligence tasks than those with it on the desk, even face-down and silent).
+
+## 2026-10-20 reel — walk 2 minutes after lunch (Energy, 11 s short-cut test)
+Walk 2 minutes after lunch.
+
+Don't go straight from the plate back to the chair.
+
+Stand up, walk a lap of the office or the block, then start the next meeting.
+
+What's the first thing you do after lunch?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #energy #workhabits #productivitytips #entrepreneurmindset
+
+Source: Buffey, Herring, Langley, Donnelly & Carson 2022, "The Acute Effects of Interrupting Prolonged Sitting Time in Adults with Standing and Light-Intensity Walking on Biomarkers of Cardiometabolic Health in Adults: A Systematic Review and Meta-analysis", Sports Medicine 52:1765–1787 (short bouts of light walking after meals lowered post-meal blood glucose compared with uninterrupted sitting). General habit, not medical advice; no health promise made in the post.
