@@ -266,3 +266,33 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #energy #workhabits #productivitytips #entrepreneurmindset
 
 Source: Buffey, Herring, Langley, Donnelly & Carson 2022, "The Acute Effects of Interrupting Prolonged Sitting Time in Adults with Standing and Light-Intensity Walking on Biomarkers of Cardiometabolic Health in Adults: A Systematic Review and Meta-analysis", Sports Medicine 52:1765–1787 (short bouts of light walking after meals lowered post-meal blood glucose compared with uninterrupted sitting). General habit, not medical advice; no health promise made in the post.
+
+## 2026-10-21 carousel — one screen, one task (Focus, brand style)
+One screen. One task.
+
+Before a focus block, close every tab you don't need and full-screen the work.
+
+Quit chat instead of muting it, and turn Do Not Disturb on until the block ends.
+
+Which tab would you close first?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+No health claim made; workflow habit only.
+
+## 2026-10-21 reel — two bank accounts (Money, 11 s short-cut test)
+Two bank accounts. One you never spend.
+
+Every time a payment comes in, move the tax share to the second account the same day.
+
+What's left in the first one is what you really have.
+
+Do you keep tax money separate?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #cashflow #smallbusiness #entrepreneurmindset
+
+No income claim; general cash habit, not tax or financial advice.

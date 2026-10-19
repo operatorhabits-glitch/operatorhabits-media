@@ -1,0 +1,39 @@
+{
+ "slides": [
+  {
+   "tag": "hook",
+   "title": "*One screen. *One task.",
+   "body": "5 setup rules before your next focus block."
+  },
+  {
+   "tag": "01",
+   "title": "Close every tab you *don't *need.",
+   "body": "If it isn't for this task, it goes. Bookmark it if you must."
+  },
+  {
+   "tag": "02",
+   "title": "*Full-screen the work.",
+   "body": "One window. Nothing at the edges asking for a click."
+  },
+  {
+   "tag": "03",
+   "title": "Quit chat. Don't just *mute it.",
+   "body": "A red badge you can see still pulls your eyes."
+  },
+  {
+   "tag": "04",
+   "title": "*Do *Not *Disturb on.",
+   "body": "Set it to end when the block ends, so you don't forget."
+  },
+  {
+   "tag": "05",
+   "title": "Park stray thoughts on *paper.",
+   "body": "A notepad next to you. Write it down, get back to work."
+  },
+  {
+   "tag": "end",
+   "title": "A clean screen is a *clear *head.",
+   "body": "Follow @operatorhabits for one habit a day."
+  }
+ ]
+}
