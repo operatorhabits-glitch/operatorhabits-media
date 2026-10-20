@@ -296,3 +296,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #cashflow #smallbusiness #entrepreneurmindset
 
 No income claim; general cash habit, not tax or financial advice.
+
+## 2026-10-22 carousel — re-decide your subscriptions monthly (Money, poster style)
+Every subscription is a decision you made once.
+
+Once a month, open last month's statement and list every repeat charge.
+
+For each one ask: would I buy this again today? If not, cancel it while the statement is still open.
+
+What's the one you'd cancel first?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #cashflow #smallbusiness #entrepreneurmindset
+
+No income claim; general spending habit, not financial advice.
