@@ -26,7 +26,7 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-20 | 18:00 | reel | Energy | Walk 2 minutes after lunch (11 s short-cut test) | media/2026-10-20/operatorhabits_2026-10-20_reel.mp4 | 6ad45eb50b0d72757a0c020d | scheduled |
 | 2026-10-21 | 13:00 | carousel | Focus | One screen, one task: 5 setup rules before a focus block (brand style) | media/2026-10-21/operatorhabits_2026-10-21_carousel_1..7.png | 6ad5b04faa3b6d94b201c50a | scheduled |
 | 2026-10-21 | 18:00 | reel | Money | Two bank accounts: move the tax share out the day it lands (11 s short-cut test) | media/2026-10-21/operatorhabits_2026-10-21_reel.mp4 | 6ad5b051aa3b6d94b201c589 | scheduled |
-| 2026-10-22 | 13:00 | carousel | Money | Re-decide every subscription monthly (poster style) | media/2026-10-22/operatorhabits_2026-10-22_carousel_1..6.png | PENDING | ready |
+| 2026-10-22 | 13:00 | carousel | Money | Re-decide every subscription monthly (poster style) | media/2026-10-22/operatorhabits_2026-10-22_carousel_1..6.png | 6ad701732d48e20f64cd590d | scheduled |
 | 2026-10-22 | 18:00 | reel | Focus | Retry of 2026-10-19 reel: Phone one room away | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | 6ad30d141c7e49ea4c3c8a24 | scheduled (retry) |
 
 Notes:
