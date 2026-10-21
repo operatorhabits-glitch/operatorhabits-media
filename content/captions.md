@@ -311,3 +311,33 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #cashflow #smallbusiness #entrepreneurmindset
 
 No income claim; general spending habit, not financial advice.
+
+## 2026-10-23 carousel — write the next step for unfinished tasks (Focus, journal style)
+Why does the unfinished task follow you everywhere?
+
+Your head keeps unfinished work open in the background.
+
+Before you stop today, write one line for every open task: what you do next, and when. Then close the laptop.
+
+What's the task that keeps following you?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Masicampo & Baumeister 2011, J. Personality and Social Psychology (making a specific plan for an unfinished goal removed its interference with other tasks).
+
+## 2026-10-23 reel — move 5 minutes every 30 (Energy, 11 s short-cut test)
+Sitting 30 minutes? Stand up.
+
+In a 2023 study, 5 easy minutes of walking every half hour beat sitting all day.
+
+Set a timer. Walk. Back to work.
+
+How long have you been sitting right now?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #healthyfounder #productivitytips #deskjob #entrepreneurmindset
+
+Source: Duran et al. 2023, Medicine & Science in Sports & Exercise (5 min light walking every 30 min lowered blood sugar and blood pressure vs. uninterrupted sitting; small crossover trial). No medical advice, no weight-loss claim.

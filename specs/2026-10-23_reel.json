@@ -1,0 +1,29 @@
+{
+ "shift": 3,
+ "scenes": [
+  {
+   "size": 150,
+   "lines": [
+    "Sitting *30|thirty minutes? Stand up."
+   ]
+  },
+  {
+   "size": 120,
+   "lines": [
+    "*5|Five minutes of walking every half hour beat *sitting all day."
+   ]
+  },
+  {
+   "size": 128,
+   "lines": [
+    "Set a timer. *Walk. Back to work."
+   ]
+  },
+  {
+   "size": 128,
+   "lines": [
+    "Follow for *one habit a day."
+   ]
+  }
+ ]
+}
