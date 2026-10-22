@@ -30,8 +30,8 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-22 | 18:00 | reel | Focus | Retry of 2026-10-19 reel: Phone one room away | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | 6ad30d141c7e49ea4c3c8a24 | scheduled (retry) |
 | 2026-10-23 | 13:00 | carousel | Focus | Write the next step for every unfinished task (journal style) | media/2026-10-23/operatorhabits_2026-10-23_carousel_1..5.png | 6ad85341db7d8198214971f2 | scheduled |
 | 2026-10-23 | 18:00 | reel | Energy | Move 5 minutes every 30 (11 s short-cut test) | media/2026-10-23/operatorhabits_2026-10-23_reel.mp4 | 6ad85344db7d8198214972a6 | scheduled |
-| 2026-10-24 | 13:00 | carousel | Focus | A 10-minute break is part of the work: 5 break rules (brand style) | media/2026-10-24/operatorhabits_2026-10-24_carousel_1..7.png | | ready |
-| 2026-10-24 | 18:00 | reel | Energy | Coffee cut-off: 6 hours before bed is still too late (12 s short-cut) | media/2026-10-24/operatorhabits_2026-10-24_reel.mp4 | | ready |
+| 2026-10-24 | 13:00 | carousel | Focus | A 10-minute break is part of the work: 5 break rules (brand style) | media/2026-10-24/operatorhabits_2026-10-24_carousel_1..7.png | 6ad9a5101093844846e24b58 | scheduled |
+| 2026-10-24 | 18:00 | reel | Energy | Coffee cut-off: 6 hours before bed is still too late (12 s short-cut) | media/2026-10-24/operatorhabits_2026-10-24_reel.mp4 | 6ad9a513deacf5d25330825e | scheduled |
 
 Notes:
 - 2026-10-20: 2026-10-19 18:00 reel failed in Buffer ("unknown error"); channel still connected, file identical in format to reels that published. Rescheduled the same post once for 2026-10-22 18:00. Reported to Mateo by notification on 2026-10-20.
