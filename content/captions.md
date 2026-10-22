@@ -341,3 +341,33 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #healthyfounder #productivitytips #deskjob #entrepreneurmindset
 
 Source: Duran et al. 2023, Medicine & Science in Sports & Exercise (5 min light walking every 30 min lowered blood sugar and blood pressure vs. uninterrupted sitting; small crossover trial). No medical advice, no weight-loss claim.
+
+## 2026-10-24 carousel — short breaks that refill you (Focus, brand style)
+A 10-minute break is part of the work.
+
+Stop the block when you planned to, not when you are empty.
+
+Leave the screen for 10 minutes or less: window, water, a lap of the room. Scrolling doesn't count.
+
+What do you do on your breaks right now?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Albulescu et al. 2022, PLOS ONE, "Give me a break!" meta-analysis (micro-breaks of 10 minutes or less increased vigor and reduced fatigue). "Scrolling is not a break" is our own advice, not a study claim.
+
+## 2026-10-24 reel — coffee cut-off (Energy, 12 s short-cut)
+Last coffee 6 hours before bed? Still too late.
+
+In a sleep-lab study, caffeine taken 6 hours before bedtime still cut sleep by about an hour.
+
+Pick a coffee cut-off time and keep it.
+
+What time is your last coffee?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #healthyfounder #productivitytips #entrepreneurmindset
+
+Source: Drake et al. 2013, Journal of Clinical Sleep Medicine (caffeine 0, 3 or 6 hours before bed; even at 6 hours total sleep time fell by more than 1 hour; small study). No medical advice, no dosing.
