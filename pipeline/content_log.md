@@ -26,14 +26,17 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-20 | 18:00 | reel | Energy | Walk 2 minutes after lunch (11 s short-cut test) | media/2026-10-20/operatorhabits_2026-10-20_reel.mp4 | 6ad45eb50b0d72757a0c020d | sent |
 | 2026-10-21 | 13:00 | carousel | Focus | One screen, one task: 5 setup rules before a focus block (brand style) | media/2026-10-21/operatorhabits_2026-10-21_carousel_1..7.png | 6ad5b04faa3b6d94b201c50a | sent |
 | 2026-10-21 | 18:00 | reel | Money | Two bank accounts: move the tax share out the day it lands (11 s short-cut test) | media/2026-10-21/operatorhabits_2026-10-21_reel.mp4 | 6ad5b051aa3b6d94b201c589 | sent |
-| 2026-10-22 | 13:00 | carousel | Money | Re-decide every subscription monthly (poster style) | media/2026-10-22/operatorhabits_2026-10-22_carousel_1..6.png | 6ad701732d48e20f64cd590d | scheduled |
-| 2026-10-22 | 18:00 | reel | Focus | Retry of 2026-10-19 reel: Phone one room away | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | 6ad30d141c7e49ea4c3c8a24 | scheduled (retry) |
+| 2026-10-22 | 13:00 | carousel | Money | Re-decide every subscription monthly (poster style) | media/2026-10-22/operatorhabits_2026-10-22_carousel_1..6.png | 6ad701732d48e20f64cd590d | error: Instagram flagged this post as potential spam (Buffer, 2026-10-22 13:00); not published, not retried — waiting on Mateo |
+| 2026-10-22 | 18:00 | reel | Focus | Retry of 2026-10-19 reel: Phone one room away | media/2026-10-19/operatorhabits_2026-10-19_reel.mp4 | 6ad30d141c7e49ea4c3c8a24 | sent (retry worked) |
 | 2026-10-23 | 13:00 | carousel | Focus | Write the next step for every unfinished task (journal style) | media/2026-10-23/operatorhabits_2026-10-23_carousel_1..5.png | 6ad85341db7d8198214971f2 | scheduled |
 | 2026-10-23 | 18:00 | reel | Energy | Move 5 minutes every 30 (11 s short-cut test) | media/2026-10-23/operatorhabits_2026-10-23_reel.mp4 | 6ad85344db7d8198214972a6 | scheduled |
 | 2026-10-24 | 13:00 | carousel | Focus | A 10-minute break is part of the work: 5 break rules (brand style) | media/2026-10-24/operatorhabits_2026-10-24_carousel_1..7.png | 6ad9a5101093844846e24b58 | scheduled |
 | 2026-10-24 | 18:00 | reel | Energy | Coffee cut-off: 6 hours before bed is still too late (12 s short-cut) | media/2026-10-24/operatorhabits_2026-10-24_reel.mp4 | 6ad9a513deacf5d25330825e | scheduled |
+| 2026-10-25 | 13:00 | carousel | Mindset | Your not-to-do list runs your week (poster style) | media/2026-10-25/operatorhabits_2026-10-25_carousel_1..6.png | 6adaf6909ef33e7811be1242 | scheduled |
+| 2026-10-25 | 18:00 | reel | Money | Work done at 4? Invoice by 5 (12 s short-cut) | media/2026-10-25/operatorhabits_2026-10-25_reel.mp4 | 6adaf691535235087b848633 | scheduled |
 
 Notes:
+- 2026-10-23: 2026-10-22 13:00 Money carousel (subscriptions, poster style) failed: Buffer error "Instagram flagged this post as potential spam. Please edit the content and try again." Not retried: re-sending flagged content could add strikes to a new account; left in Buffer as error for Mateo to review. Reported to Mateo by notification on 2026-10-23. 2026-10-25 slots are after the DST change, scheduled at +01:00 (12:00/17:00 UTC).
 - 2026-10-20: 2026-10-19 18:00 reel failed in Buffer ("unknown error"); channel still connected, file identical in format to reels that published. Rescheduled the same post once for 2026-10-22 18:00. Reported to Mateo by notification on 2026-10-20.
 - 2026-10-16: stock footage unavailable (no PEXELS_API_KEY / PIXABAY_API_KEY in the run environment); 2026-10-18 pair made in plain style. Reported to Mateo by notification on 2026-10-16.
 - 2026-10-16 (later): Mateo says a Pexels key is not available for now. Keep making content without stock footage and do not notify him about the missing key again; mention it only in the Monday report until a key appears in the environment.
