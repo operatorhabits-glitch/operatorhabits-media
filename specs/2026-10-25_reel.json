@@ -1,0 +1,9 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 150, "lines": ["Work done at *4?|four? Invoice by *5.|five."]},
+  {"size": 120, "lines": ["Every day an invoice waits is a day *you wait for cash."]},
+  {"size": 128, "lines": ["Finish. *Invoice. Then the next job."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

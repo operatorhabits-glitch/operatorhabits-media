@@ -371,3 +371,33 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #healthyfounder #productivitytips #entrepreneurmindset
 
 Source: Drake et al. 2013, Journal of Clinical Sleep Medicine (caffeine 0, 3 or 6 hours before bed; even at 6 hours total sleep time fell by more than 1 hour; small study). No medical advice, no dosing.
+
+## 2026-10-25 carousel — the not-to-do list (Mindset, poster style)
+Your not-to-do list runs your week.
+
+Every yes spends an hour you don't have.
+
+Write down 3 things you stop doing and keep the list next to your to-do list. Read it before you say yes to anything.
+
+What's the first thing on your not-to-do list?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #operatormindset #timemanagement #productivitytips #entrepreneurmindset
+
+Source: no health or research claim; our own operating advice.
+
+## 2026-10-25 reel — invoice the same day (Money, 12 s short-cut)
+Work done at 4? Invoice by 5.
+
+Every day an invoice waits is a day you wait for cash.
+
+Finish. Invoice. Then the next job.
+
+When do you usually send your invoices?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #freelancetips #smallbusiness #entrepreneurmindset
+
+Source: no health or research claim; our own operating advice. No income promise.
