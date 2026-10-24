@@ -401,3 +401,33 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #freelancetips #smallbusiness #entrepreneurmindset
 
 Source: no health or research claim; our own operating advice. No income promise.
+
+## 2026-10-26 carousel — exercise snacks: fast stairs (Energy, brand style)
+No time to train? Take the stairs. Fast.
+
+Three bursts of 20 seconds, three times a day.
+
+Tie each one to something you already do: after a call, before a coffee.
+
+Where could you fit your first one tomorrow?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #healthyfounder #exercisesnacks #productivitytips #entrepreneurmindset
+
+Source: Jenkins, Gibala et al. 2019, "Do stair climbing exercise 'snacks' improve cardiorespiratory fitness?", Applied Physiology, Nutrition, and Metabolism 44(6):681–684 (3 × 20 s vigorous stair climbs, 3 times a day, 3 days a week for 6 weeks raised peak oxygen uptake in sedentary young adults; small trial). WHO 2020 Guidelines on Physical Activity and Sedentary Behaviour ("some physical activity is better than none"). General habit, not medical advice; no weight-loss or health promise.
+
+## 2026-10-26 reel — notifications off (Focus, 17 s, result-first hook)
+Notifications off. Focus back.
+
+A buzz you ignore still breaks your focus.
+
+Turn every alert off for the block. Check on your schedule, not theirs.
+
+Which app would you silence first?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Stothart, Mitchum & Yehnert 2015, "The attentional cost of receiving a cell phone notification", Journal of Experimental Psychology: Human Perception and Performance 41(4):893–897 (receiving a notification, without answering it, hurt performance on an attention task).

@@ -1,0 +1,11 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 150, "lines": ["Notifications *off.", "Focus *back."]},
+  {"size": 120, "lines": ["A buzz you *ignore still *breaks your focus."]},
+  {"size": 112, "lines": ["In one study, just *getting a notification hurt scores on a *focus task."]},
+  {"size": 128, "num": "01", "lines": ["|One. All alerts *off for the block."]},
+  {"size": 128, "num": "02", "lines": ["|Two. Check on *your schedule."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
