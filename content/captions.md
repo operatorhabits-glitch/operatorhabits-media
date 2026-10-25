@@ -431,3 +431,31 @@ Follow @operatorhabits for one habit a day.
 #deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
 
 Source: Stothart, Mitchum & Yehnert 2015, "The attentional cost of receiving a cell phone notification", Journal of Experimental Psychology: Human Perception and Performance 41(4):893–897 (receiving a notification, without answering it, hurt performance on an attention task).
+
+## 2026-10-27 carousel — write your price before the call (Money, journal style, no-hashtag test)
+Why do you drop your price before they even ask?
+
+Most discounts happen in our heads. We guess the client will push back, so we push back for them.
+
+Write one number on paper before the call. Say it, then stop talking.
+
+What do you do in the silence after you name your price?
+
+Follow @operatorhabits for one habit a day.
+
+Source: no health or research claim; our own operating advice. No income promise. No hashtags on purpose (2026-10-25 spam-flag test).
+
+## 2026-10-27 reel — can you undo it? decide today (Mindset, 15.7 s, result-first hook)
+Can you undo it? Decide today.
+
+Most choices are reversible. Treat them that way.
+
+The ones you can't undo get a night's sleep.
+
+What's a small decision you've been sitting on?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #decisionmaking #operatormindset #productivitytips #entrepreneurmindset
+
+Source: no health or research claim; our own operating advice.

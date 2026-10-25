@@ -1,0 +1,11 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 150, "lines": ["Can you *undo it?", "Decide *today."]},
+  {"size": 120, "lines": ["Most choices are *reversible. Treat them that way."]},
+  {"size": 120, "lines": ["The ones you *can't undo get a night's *sleep."]},
+  {"size": 128, "num": "01", "lines": ["|One. Ask: can I *undo this?"]},
+  {"size": 128, "num": "02", "lines": ["|Two. Yes? *Ten minutes, then pick."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
