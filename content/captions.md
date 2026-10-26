@@ -459,3 +459,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #decisionmaking #operatormindset #productivitytips #entrepreneurmindset
 
 Source: no health or research claim; our own operating advice.
+
+## 2026-10-28 reel — Friday money check: 15 minutes, 3 numbers (Money, 14.3 s, result-first hook)
+Friday. 15 minutes. 3 numbers.
+
+Cash in the bank today. Unpaid invoices, and chase them. Bills due next week.
+
+Fifteen minutes on Friday means fewer money surprises on Monday.
+
+Which of the three do you never look at?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #cashflow #moneyhabits #smallbusiness #entrepreneurmindset
+
+Source: no health or research claim; our own operating advice. No income promise.

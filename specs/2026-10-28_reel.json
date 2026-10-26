@@ -1,0 +1,11 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 150, "lines": ["Friday. *15 minutes.", "*3 numbers."]},
+  {"size": 120, "lines": ["Fewer money *surprises next week."]},
+  {"size": 128, "num": "01", "lines": ["|One. *Cash in the bank today."]},
+  {"size": 128, "num": "02", "lines": ["|Two. *Unpaid invoices. Chase them."]},
+  {"size": 128, "num": "03", "lines": ["|Three. *Bills due next week."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
