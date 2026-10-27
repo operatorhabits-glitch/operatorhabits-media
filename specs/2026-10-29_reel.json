@@ -1,0 +1,10 @@
+{
+ "shift": 1,
+ "scenes": [
+  {"size": 150, "lines": ["Nap *10|ten minutes.", "Not *60.|sixty."]},
+  {"size": 120, "lines": ["Long naps leave you *groggy."]},
+  {"size": 120, "lines": ["In one sleep lab study, *10-minute|ten-minute naps beat longer ones for alertness."]},
+  {"size": 128, "lines": ["Set an alarm. *Back to work."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

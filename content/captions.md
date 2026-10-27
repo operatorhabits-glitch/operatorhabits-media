@@ -474,3 +474,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #cashflow #moneyhabits #smallbusiness #entrepreneurmindset
 
 Source: no health or research claim; our own operating advice. No income promise.
+
+## 2026-10-29 reel — nap 10 minutes, not 60 (Energy, 14.2 s, result-first hook)
+Nap 10 minutes. Not 60.
+
+Long naps can leave you groggy for a while after you wake.
+
+In one sleep lab study, 10-minute naps beat longer ones for alertness. Set an alarm, then get back to work.
+
+How long do your naps usually run?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #energy #sleephabits #productivitytips #entrepreneurmindset
+
+Source: Brooks & Lack 2006, "A brief afternoon nap following nocturnal sleep restriction: which nap duration is most recuperative?", Sleep 29(6):831–840 (small lab study: the 10-min nap improved alertness and performance more than 5, 20 or 30 min naps, with less grogginess than longer naps). General habit, not medical advice.
