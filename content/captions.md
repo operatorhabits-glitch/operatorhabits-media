@@ -489,3 +489,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #energy #sleephabits #productivitytips #entrepreneurmindset
 
 Source: Brooks & Lack 2006, "A brief afternoon nap following nocturnal sleep restriction: which nap duration is most recuperative?", Sleep 29(6):831–840 (small lab study: the 10-min nap improved alertness and performance more than 5, 20 or 30 min naps, with less grogginess than longer naps). General habit, not medical advice.
+
+## 2026-10-30 reel — one task, done faster (Focus, 14.2 s, result-first hook)
+One task. Done faster.
+
+Every switch between tasks costs you time, even when it feels like a second.
+
+Task-switching research found the cost is bigger for harder, less familiar work. Pick one task, finish it, then switch.
+
+What pulls you off your main task most often?
+
+Follow @operatorhabits for one habit a day.
+
+#deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
+
+Source: Rubinstein, Meyer & Evans 2001, "Executive control of cognitive processes in task switching", Journal of Experimental Psychology: Human Perception and Performance 27(4):763–797 (switching tasks costs time; costs rise with task complexity and unfamiliarity). General habit, not medical advice.

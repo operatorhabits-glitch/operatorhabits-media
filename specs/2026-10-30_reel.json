@@ -1,0 +1,10 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 150, "lines": ["One task.", "*Done *faster."]},
+  {"size": 120, "lines": ["Every switch between tasks costs you *time."]},
+  {"size": 116, "lines": ["Task-switching research found the cost is *bigger for harder work."]},
+  {"size": 124, "lines": ["Pick one. Finish it. *Then switch."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
