@@ -504,3 +504,18 @@ Follow @operatorhabits for one habit a day.
 #deepwork #focus #founderhabits #productivitytips #entrepreneurmindset
 
 Source: Rubinstein, Meyer & Evans 2001, "Executive control of cognitive processes in task switching", Journal of Experimental Psychology: Human Perception and Performance 27(4):763–797 (switching tasks costs time; costs rise with task complexity and unfamiliarity). General habit, not medical advice.
+
+## 2026-10-31 reel — if-then plans get done (Mindset, 16.1 s, result-first hook)
+If-then plans get done.
+
+"I'll walk more" is a wish. "After my first call, I walk 10 minutes" is a plan.
+
+Tie the habit to a moment that already happens in your day. Write one tonight.
+
+What's one "after X, I do Y" you could start tomorrow?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #habits #entrepreneurmindset #productivitytips #systems
+
+Source: Gollwitzer & Sheeran 2006, "Implementation intentions and goal achievement: a meta-analysis of effects and processes", Advances in Experimental Social Psychology 38:69–119 (94 independent tests; if-then plans had a medium-to-large positive effect on goal attainment). General habit, not medical advice.

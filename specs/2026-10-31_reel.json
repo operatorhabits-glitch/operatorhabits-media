@@ -1,0 +1,11 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 140, "lines": ["If-then plans", "get *done."]},
+  {"size": 120, "lines": ["\"I'll walk more\" is a *wish."]},
+  {"size": 110, "lines": ["\"After my first call, I walk *10|ten *minutes\" is a *plan."]},
+  {"size": 112, "lines": ["Across *94|ninety-four studies, if-then plans *raised follow-through."]},
+  {"size": 124, "lines": ["Write one *tonight."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
