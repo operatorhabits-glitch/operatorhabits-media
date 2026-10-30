@@ -519,3 +519,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #habits #entrepreneurmindset #productivitytips #systems
 
 Source: Gollwitzer & Sheeran 2006, "Implementation intentions and goal achievement: a meta-analysis of effects and processes", Advances in Experimental Social Psychology 38:69–119 (94 independent tests; if-then plans had a medium-to-large positive effect on goal attainment). General habit, not medical advice.
+
+## 2026-11-01 reel — morning light first, sleep comes easier (Energy, 16.0 s, result-first hook)
+Morning light first. Sleep comes easier.
+
+Your body clock sets itself by light, and morning light is the strongest signal.
+
+Get outside within an hour of waking for about 10 minutes. Even a cloudy sky is far brighter than office lighting. Coffee on the balcony counts.
+
+When do you first step outside on a workday?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #energy #morningroutine #entrepreneurmindset
+
+Source: Blume, Garbazza & Spitschan 2019, "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3):147–156 (light is the main signal that sets the circadian clock; morning light advances it; daylight, even overcast, is many times brighter than typical indoor lighting). General habit, not medical advice.

@@ -1,0 +1,11 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 128, "lines": ["Morning light *first.", "Sleep comes *easier."]},
+  {"size": 116, "lines": ["Your body clock sets itself by *light."]},
+  {"size": 112, "lines": ["Get *outside within an hour of waking. *10|ten *minutes."]},
+  {"size": 112, "lines": ["Even a *cloudy sky beats office light."]},
+  {"size": 124, "lines": ["Coffee on the *balcony counts."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

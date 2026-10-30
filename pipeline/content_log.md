@@ -39,9 +39,10 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-10-27 | 13:00 | carousel | Money | Write your price before the call (journal style, no hashtags) | media/2026-10-27/operatorhabits_2026-10-27_carousel_1..5.png | 6adda84fe4be8a4d869524a0 | ready (moved to Buffer drafts 2026-10-26: carousels paused) |
 | 2026-10-27 | 18:00 | reel | Mindset | Can you undo it? Decide today (15.7 s, result-first hook) | media/2026-10-27/operatorhabits_2026-10-27_reel.mp4 | 6adda8506887a2efc1f0f6d8 | sent |
 | 2026-10-28 | 18:00 | reel | Money | Friday money check: 15 minutes, 3 numbers (14.3 s, result-first hook) | media/2026-10-28/operatorhabits_2026-10-28_reel.mp4 | 6adef9efe4fd2be3e6581b4e | sent |
-| 2026-10-29 | 18:00 | reel | Energy | Nap 10 minutes, not 60 (14.2 s, result-first hook) | media/2026-10-29/operatorhabits_2026-10-29_reel.mp4 | 6ae04a49da2ca338b14ea174 | scheduled |
+| 2026-10-29 | 18:00 | reel | Energy | Nap 10 minutes, not 60 (14.2 s, result-first hook) | media/2026-10-29/operatorhabits_2026-10-29_reel.mp4 | 6ae04a49da2ca338b14ea174 | sent |
 | 2026-10-30 | 18:00 | reel | Focus | One task, done faster (task-switching cost; 14.2 s, result-first hook) | media/2026-10-30/operatorhabits_2026-10-30_reel.mp4 | 6ae19c1bf2db54e878c806eb | scheduled |
 | 2026-10-31 | 18:00 | reel | Mindset | If-then plans get done (implementation intentions; 16.1 s, result-first hook) | media/2026-10-31/operatorhabits_2026-10-31_reel.mp4 | 6ae2ed8ff66393dd5691603f | scheduled |
+| 2026-11-01 | 18:00 | reel | Energy | Morning light first, sleep comes easier (16.0 s, result-first hook) | media/2026-11-01/operatorhabits_2026-11-01_reel.mp4 | | ready |
 
 Notes:
 - 2026-10-26: the 2026-10-25 13:00 carousel (no hashtags) was also spam-flagged: four carousels in a row (10-22 poster, 10-23 journal, 10-24 brand, 10-25 poster without hashtags). Reels keep publishing. Carousels paused: the queued 10-26 and 10-27 carousels were moved to Buffer drafts (not deleted; one click to reschedule) and no new carousels are made until Mateo checks the account (Instagram app: Settings > Account Status) and says to resume. 13:00 slots stay empty meanwhile. Reported in the Monday report 2026-10-26.
