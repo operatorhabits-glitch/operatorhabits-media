@@ -534,3 +534,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #energy #morningroutine #entrepreneurmindset
 
 Source: Blume, Garbazza & Spitschan 2019, "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3):147–156 (light is the main signal that sets the circadian clock; morning light advances it; daylight, even overcast, is many times brighter than typical indoor lighting). General habit, not medical advice.
+
+## 2026-11-02 reel — foggy at 3? water first (Energy, 17.1 s, result-first hook)
+Foggy at 3? Water first.
+
+Even mild dehydration can dull focus and mood, and you often don't feel thirsty yet.
+
+Keep a full glass on the desk and refill it at every break. Easier than another coffee.
+
+How many glasses do you actually drink before lunch?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #energy #productivitytips #entrepreneurmindset #habits
+
+Source: Ganio et al. 2011, "Mild dehydration impairs cognitive performance and mood of men", British Journal of Nutrition 106(10):1535–1543 (~1.6% body-water loss impaired vigilance and working memory and raised fatigue); Armstrong et al. 2012, "Mild dehydration affects mood in healthy young women", Journal of Nutrition 142(2):382–388 (~1.4% loss lowered mood and concentration). General habit, not medical advice.

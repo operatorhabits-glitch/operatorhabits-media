@@ -1,0 +1,10 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 150, "lines": ["Foggy at *3?|three?", "*Water first."]},
+  {"size": 120, "lines": ["Even mild *dehydration dulls focus."]},
+  {"size": 120, "lines": ["In lab studies, losing about *1.5%|one_and_a_half_percent of body water lowered attention and mood."]},
+  {"size": 128, "lines": ["Glass on the desk. *Refill|Refill_it at every break."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
