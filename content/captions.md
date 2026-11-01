@@ -549,3 +549,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #energy #productivitytips #entrepreneurmindset #habits
 
 Source: Ganio et al. 2011, "Mild dehydration impairs cognitive performance and mood of men", British Journal of Nutrition 106(10):1535–1543 (~1.6% body-water loss impaired vigilance and working memory and raised fatigue); Armstrong et al. 2012, "Mild dehydration affects mood in healthy young women", Journal of Nutrition 142(2):382–388 (~1.4% loss lowered mood and concentration). General habit, not medical advice.
+
+## 2026-11-03 reel — tomorrow's list tonight, sleep sooner (Energy, 16.9 s, result-first hook)
+Tomorrow's list tonight. Sleep sooner.
+
+In a sleep lab study, people who spent 5 minutes writing a to-do list before bed fell asleep faster than people who wrote about what they had already done.
+
+The more specific the list, the faster they slept. Paper by the bed, 5 minutes, then lights out.
+
+What's the one task that keeps you up at night?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #energy #productivitytips #habits
+
+Source: Scullin, Krueger, Ballard, Pruett & Bliwise 2018, "The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists", Journal of Experimental Psychology: General 147(1):139–146 (5-minute to-do list before bed → faster sleep onset than a completed-activities list; more specific lists → faster). General habit, not medical advice.

@@ -1,0 +1,10 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 140, "lines": ["Tomorrow's list *tonight.", "Sleep *sooner."]},
+  {"size": 116, "lines": ["In a sleep lab study, a *5-minute|five-minute to-do list before bed helped people fall asleep *faster."]},
+  {"size": 120, "lines": ["The more *specific the list, the faster they slept."]},
+  {"size": 128, "lines": ["Paper by the bed. *5|Five minutes."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
