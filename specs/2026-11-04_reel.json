@@ -1,0 +1,10 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 150, "lines": ["Music *on.", "Lyrics *off."]},
+  {"size": 120, "lines": ["Words in your ears *compete with words on your screen."]},
+  {"size": 116, "lines": ["In one study, people understood *less of what they read with lyrics on, even songs they *liked."]},
+  {"size": 128, "lines": ["Reading or writing? Go *instrumental."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

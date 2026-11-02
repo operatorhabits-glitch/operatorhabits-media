@@ -564,3 +564,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #energy #productivitytips #habits
 
 Source: Scullin, Krueger, Ballard, Pruett & Bliwise 2018, "The effects of bedtime writing on difficulty falling asleep: A polysomnographic study comparing to-do lists and completed activity lists", Journal of Experimental Psychology: General 147(1):139–146 (5-minute to-do list before bed → faster sleep onset than a completed-activities list; more specific lists → faster). General habit, not medical advice.
+
+## 2026-11-04 reel — music on, lyrics off (Focus, 17.0 s, contrast hook)
+Music on. Lyrics off.
+
+Words in your ears compete with words on your screen.
+
+In one small study, people understood less of what they read with lyrics playing, even songs they liked. With instrumental music they did as well as in silence.
+
+Reading or writing? Go instrumental.
+
+What do you put on when you need to think?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Perham & Currie 2014, "Does listening to preferred music improve reading comprehension performance?", Applied Cognitive Psychology 28(2):279–284, doi 10.1002/acp.2994 (30 undergraduates; reading comprehension was poorest with liked and disliked lyrical music, and equal in quiet and with non-lyrical music). General habit, not medical advice.
