@@ -1,0 +1,10 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 150, "lines": ["*50%|Fifty_percent up front.", "Not *0.|Not_zero."]},
+  {"size": 120, "lines": ["No deposit means you *fund the client's project."]},
+  {"size": 116, "lines": ["You cover the costs and the wait. If it stalls, you carry the *loss."]},
+  {"size": 128, "lines": ["Next proposal: *half to start, half on delivery."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

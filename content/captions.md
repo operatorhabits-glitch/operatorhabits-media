@@ -581,3 +581,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Perham & Currie 2014, "Does listening to preferred music improve reading comprehension performance?", Applied Cognitive Psychology 28(2):279–284, doi 10.1002/acp.2994 (30 undergraduates; reading comprehension was poorest with liked and disliked lyrical music, and equal in quiet and with non-lyrical music). General habit, not medical advice.
+
+## 2026-11-05 reel — 50% up front, not 0 (Money, 16.9 s, contrast hook)
+50% up front. Not 0.
+
+No deposit means you fund the client's project.
+
+You cover the costs and the wait. If the project stalls, you carry the loss.
+
+Next proposal: half to start, half on delivery.
+
+What's the deposit in your last proposal?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #freelancebusiness #pricing #habits
+
+Source: none needed (a billing practice, no health claim, no income promise).
