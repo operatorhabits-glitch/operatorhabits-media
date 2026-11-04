@@ -598,3 +598,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #freelancebusiness #pricing #habits
 
 Source: none needed (a billing practice, no health claim, no income promise).
+
+## 2026-11-06 reel — phone on gray, not color (Focus, 16.6 s, contrast hook)
+Phone on gray. Not color.
+
+A dull screen is easier to put down.
+
+In one study, college students who switched their phones to grayscale cut almost 40 minutes of screen time a day.
+
+Find grayscale in your phone's accessibility settings. Try it for your work hours.
+
+What's the app you open without thinking?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Holte & Ferraro 2020, "True colors: Grayscale setting reduces screen time in college students", The Social Science Journal, doi 10.1080/03623319.2020.1737461 (about 220 students, average reduction of 39 minutes a day, per University of Cincinnati news, Oct 2022, and CNN, Jun 2020; study abstract itself not read). General habit, not medical advice.

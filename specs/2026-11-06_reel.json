@@ -1,0 +1,10 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 150, "lines": ["Phone on *gray.", "Not *color."]},
+  {"size": 120, "lines": ["A dull screen is *easier to put down."]},
+  {"size": 116, "lines": ["In one study, students on grayscale cut almost *40|forty minutes of phone time a day."]},
+  {"size": 128, "lines": ["Find *grayscale in your phone's accessibility settings."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
