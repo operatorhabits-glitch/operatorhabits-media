@@ -623,7 +623,7 @@ Sleeping in shifts your body clock. Monday pays for it.
 
 In a big UK study, regular sleep times predicted health risk better than sleep length.
 
-Keep your weekday alarm. If you're short on sleep, a short nap beats a long lie-in.
+Keep your weekday alarm, weekends too.
 
 What time did your alarm go off last Saturday?
 
