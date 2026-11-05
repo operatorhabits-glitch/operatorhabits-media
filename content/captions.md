@@ -615,3 +615,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Holte & Ferraro 2020, "True colors: Grayscale setting reduces screen time in college students", The Social Science Journal, doi 10.1080/03623319.2020.1737461 (about 220 students, average reduction of 39 minutes a day, per University of Cincinnati news, Oct 2022, and CNN, Jun 2020; study abstract itself not read). General habit, not medical advice.
+
+## 2026-11-07 reel — Saturday up at 7, not 10 (Energy, 16.5 s, contrast hook)
+Saturday: up at 7. Not 10.
+
+Sleeping in shifts your body clock. Monday pays for it.
+
+In a big UK study, regular sleep times predicted health risk better than sleep length.
+
+Keep your weekday alarm. If you're short on sleep, a short nap beats a long lie-in.
+
+What time did your alarm go off last Saturday?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #morningroutine #energy #habits
+
+Source: Windred et al. 2024, "Sleep regularity is a stronger predictor of mortality risk than sleep duration: a prospective cohort study", SLEEP (UK Biobank; PMC10782501); Wittmann et al. 2006, "Social jetlag: misalignment of biological and social time", Chronobiology International. Title and listing only: the abstract could not be opened this run, so the reel states the title's finding with no percentages. Observational association. General habit, not medical advice.
