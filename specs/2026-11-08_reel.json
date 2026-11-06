@@ -1,0 +1,10 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 150, "lines": ["Use a *checklist.", "Not your *memory."]},
+  {"size": 120, "lines": ["Even skilled surgical teams can *miss a step."]},
+  {"size": 116, "lines": ["In a study of 8 hospitals, deaths after surgery fell nearly *half with a one-page checklist."]},
+  {"size": 128, "lines": ["Write one for the task you *repeat."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

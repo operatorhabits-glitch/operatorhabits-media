@@ -632,3 +632,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #morningroutine #energy #habits
 
 Source: Windred et al. 2024, "Sleep regularity is a stronger predictor of mortality risk than sleep duration: a prospective cohort study", SLEEP (UK Biobank; PMC10782501); Wittmann et al. 2006, "Social jetlag: misalignment of biological and social time", Chronobiology International. Title and listing only: the abstract could not be opened this run, so the reel states the title's finding with no percentages. Observational association. General habit, not medical advice.
+
+## 2026-11-08 reel — Checklist, not memory (Mindset, 16.6 s, contrast hook)
+Use a checklist. Not your memory.
+
+Even skilled surgical teams can miss a step.
+
+In a study of 8 hospitals, deaths after surgery fell nearly half once teams used a one-page checklist.
+
+Pick the task you repeat every week. Write its steps once. Tick them every time.
+
+Which task do you still run from memory?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #systems #operations #entrepreneurmindset #habits
+
+Source: Haynes et al. 2009, "A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population", New England Journal of Medicine, doi 10.1056/NEJMsa0810119 (in-hospital deaths 1.5% to 0.8%, complications 11% to 7%, per The Journalist's Resource summary, Sept 2010; paper itself not read this run). Association in a pilot programme, used here as an example of checklists, not medical advice.
