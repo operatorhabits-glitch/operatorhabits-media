@@ -649,3 +649,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #systems #operations #entrepreneurmindset #habits
 
 Source: Haynes et al. 2009, "A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population", New England Journal of Medicine, doi 10.1056/NEJMsa0810119 (in-hospital deaths 1.5% to 0.8%, complications 11% to 7%, per The Journalist's Resource summary, Sept 2010; paper itself not read this run). Association in a pilot programme, used here as an example of checklists, not medical advice.
+
+## 2026-11-09 reel — Bedroom cool, not warm (Energy, 14.7 s, contrast hook)
+Bedroom cool. Not warm.
+
+Heating season is here. A warm bedroom means more waking at night.
+
+Sleep studies find heat exposure cuts deep sleep and dream (REM) sleep.
+
+Turn the heating down before bed and keep the room cool.
+
+Is your bedroom warmer than the rest of the house?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #sleep #energy #habits
+
+Source: Okamoto-Mizuno & Mizuno 2012, "Effects of thermal environment on sleep and circadian rhythm", Journal of Physiological Anthropology 31:14, doi 10.1186/1880-6805-31-14 (PMC3427038): review finding that heat exposure increases wakefulness and decreases slow-wave and REM sleep. Abstract finding only; no target temperature stated because no official guideline was found this run. General habit, not medical advice.

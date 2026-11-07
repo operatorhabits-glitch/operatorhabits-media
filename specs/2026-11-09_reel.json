@@ -1,0 +1,10 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 150, "lines": ["Bedroom *cool.", "Not *warm."]},
+  {"size": 120, "lines": ["A warm bedroom means *more waking at night."]},
+  {"size": 116, "lines": ["Sleep studies find heat cuts your *deep sleep and dream sleep."]},
+  {"size": 128, "lines": ["Tonight, turn the heating *down before bed."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
