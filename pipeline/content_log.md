@@ -51,7 +51,7 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-11-07 | 18:00 | reel | Energy | Saturday up at 7, not 10 (regular wake time, Windred et al. 2024; 16.5 s, contrast hook) | media/2026-11-07/operatorhabits_2026-11-07_reel.mp4 | 6aec28fe75052a1eb825ee92 | sent |
 | 2026-11-08 | 18:00 | reel | Mindset | Use a checklist, not your memory (Haynes et al. 2009; 16.6 s, contrast hook) | media/2026-11-08/operatorhabits_2026-11-08_reel.mp4 | 6aed793686fe9b83797a9faa | scheduled |
 | 2026-11-09 | 18:00 | reel | Energy | Bedroom cool, not warm (heat and sleep, Okamoto-Mizuno & Mizuno 2012; 14.7 s, contrast hook) | media/2026-11-09/operatorhabits_2026-11-09_reel.mp4 | 6aeeca65004e4879a73b91df | scheduled |
-| 2026-11-10 | 18:00 | reel | Focus | Set a date, not someday (self-set deadlines, Ariely & Wertenbroch 2002; 17.4 s, contrast hook) | media/2026-11-10/operatorhabits_2026-11-10_reel.mp4 | PENDING | scheduled |
+| 2026-11-10 | 18:00 | reel | Focus | Set a date, not someday (self-set deadlines, Ariely & Wertenbroch 2002; 17.4 s, contrast hook) | media/2026-11-10/operatorhabits_2026-11-10_reel.mp4 | 6af01c0b9214322f683836e3 | scheduled |
 
 Notes:
 - 2026-10-26: the 2026-10-25 13:00 carousel (no hashtags) was also spam-flagged: four carousels in a row (10-22 poster, 10-23 journal, 10-24 brand, 10-25 poster without hashtags). Reels keep publishing. Carousels paused: the queued 10-26 and 10-27 carousels were moved to Buffer drafts (not deleted; one click to reschedule) and no new carousels are made until Mateo checks the account (Instagram app: Settings > Account Status) and says to resume. 13:00 slots stay empty meanwhile. Reported in the Monday report 2026-10-26.
