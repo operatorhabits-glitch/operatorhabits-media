@@ -666,3 +666,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #sleep #energy #habits
 
 Source: Okamoto-Mizuno & Mizuno 2012, "Effects of thermal environment on sleep and circadian rhythm", Journal of Physiological Anthropology 31:14, doi 10.1186/1880-6805-31-14 (PMC3427038): review finding that heat exposure increases wakefulness and decreases slow-wave and REM sleep. Abstract finding only; no target temperature stated because no official guideline was found this run. General habit, not medical advice.
+
+## 2026-11-10 reel — Set a date, not someday (Focus, 17.4 s, contrast hook)
+Set a date. Not someday.
+
+"When I can" is how big tasks slip for months.
+
+In one study, students with no deadlines until the end did the weakest work. Students who set their own dates for each part did better.
+
+Big task this month? Pick 3 dates for its parts and put them in your calendar today.
+
+What's the task you've been saving for "someday"?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Ariely & Wertenbroch 2002, "Procrastination, Deadlines, and Performance: Self-Control by Precommitment", Psychological Science 13(3):219-224, doi 10.1111/1467-9280.00441: students given evenly spaced deadlines did best, those who set their own deadlines did better than those with only a final deadline. Behavioural finding, not health advice.

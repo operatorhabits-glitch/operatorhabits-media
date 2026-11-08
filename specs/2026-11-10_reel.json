@@ -1,0 +1,10 @@
+{
+ "shift": 1,
+ "scenes": [
+  {"size": 150, "lines": ["Set a *date.", "Not someday."]},
+  {"size": 118, "lines": ["In one study, students with *no deadlines until the end did the *worst work."]},
+  {"size": 116, "lines": ["Students who set their *own dates for each part did better."]},
+  {"size": 120, "lines": ["Big task? Pick *3 dates. Put them in your *calendar today."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
