@@ -683,3 +683,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Ariely & Wertenbroch 2002, "Procrastination, Deadlines, and Performance: Self-Control by Precommitment", Psychological Science 13(3):219-224, doi 10.1111/1467-9280.00441: students given evenly spaced deadlines did best, those who set their own deadlines did better than those with only a final deadline. Behavioural finding, not health advice.
+
+## 2026-11-11 reel — Wait a day, not one click (Money, 17.5 s, contrast hook, screenshot step)
+Wait a day. Not one click.
+
+Most need-it-now buys look different by tomorrow.
+
+Business tools too. That new app can wait 24 hours.
+
+Over €50? Put it on a list. Buy tomorrow if you still want it.
+
+What's the last thing you bought in under a minute?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #spending #smallbusiness #habits
+
+Source: none needed (spending habit, no health or income claim). New Money angle (spending, not invoicing/cash rules).

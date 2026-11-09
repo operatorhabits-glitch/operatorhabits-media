@@ -1,0 +1,10 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 150, "lines": ["Wait a *day.", "Not one click."]},
+  {"size": 118, "lines": ["Most *need-it-now buys look different by *tomorrow."]},
+  {"size": 116, "lines": ["Business tools too. That new *app can wait *24|twenty-four hours."]},
+  {"size": 116, "lines": ["Over *€50?|fifty_euros? Put it on a *list. Buy tomorrow if you still want it."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
