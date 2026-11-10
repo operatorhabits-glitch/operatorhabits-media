@@ -63,4 +63,4 @@ Notes:
 - 2026-10-20: 2026-10-19 18:00 reel failed in Buffer ("unknown error"); channel still connected, file identical in format to reels that published. Rescheduled the same post once for 2026-10-22 18:00. Reported to Mateo by notification on 2026-10-20.
 - 2026-10-16: stock footage unavailable (no PEXELS_API_KEY / PIXABAY_API_KEY in the run environment); 2026-10-18 pair made in plain style. Reported to Mateo by notification on 2026-10-16.
 - 2026-10-16 (later): Mateo says a Pexels key is not available for now. Keep making content without stock footage and do not notify him about the missing key again; mention it only in the Monday report until a key appears in the environment.
-| 2026-11-12 | 18:00 | reel | Focus | Write it down, not a new tab (park mid-task thoughts, Masicampo & Baumeister 2011; 20.2 s, contrast hook, screenshot step) | media/2026-11-12/operatorhabits_2026-11-12_reel.mp4 | PENDING | ready |
+| 2026-11-12 | 18:00 | reel | Focus | Write it down, not a new tab (park mid-task thoughts, Masicampo & Baumeister 2011; 20.2 s, contrast hook, screenshot step) | media/2026-11-12/operatorhabits_2026-11-12_reel.mp4 | 6af2bf40b59b34913a5fb376 | scheduled |
