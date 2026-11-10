@@ -1,0 +1,10 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 150, "lines": ["Write it *down.", "Not a new *tab."]},
+  {"size": 118, "lines": ["A new thought hits mid-task. Chasing it *breaks your focus."]},
+  {"size": 112, "lines": ["In studies, unfinished tasks kept *pulling at attention. Until people wrote a *plan for them."]},
+  {"size": 112, "lines": ["Sticky note by the keyboard. Write *3|three words and *when you'll do it. Back to work."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

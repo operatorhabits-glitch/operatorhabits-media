@@ -700,3 +700,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #spending #smallbusiness #habits
 
 Source: none needed (spending habit, no health or income claim). New Money angle (spending, not invoicing/cash rules).
+
+## 2026-11-12 reel — Write it down, not a new tab (Focus, 20.2 s, contrast hook, screenshot step)
+Write it down. Not a new tab.
+
+A new thought hits mid-task. Chasing it breaks your focus.
+
+In studies, unfinished tasks kept pulling at attention, until people wrote a specific plan for them.
+
+Sticky note by the keyboard. Write 3 words and when you'll do it. Back to work.
+
+What pulls you out of deep work most often?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Masicampo & Baumeister 2011, "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals", Journal of Personality and Social Psychology 101(4):667-683, doi 10.1037/a0024192: unfulfilled goals caused intrusive thoughts and worse performance on unrelated tasks; making a specific plan for the goal removed those effects. Behavioural finding, not health advice.
