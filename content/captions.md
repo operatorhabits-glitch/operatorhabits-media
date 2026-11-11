@@ -717,3 +717,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Masicampo & Baumeister 2011, "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals", Journal of Personality and Social Psychology 101(4):667-683, doi 10.1037/a0024192: unfulfilled goals caused intrusive thoughts and worse performance on unrelated tasks; making a specific plan for the goal removed those effects. Behavioural finding, not health advice.
+
+## 2026-11-13 reel — Lamps after 9, not ceiling lights (Energy, 19.7 s, contrast hook, screenshot step)
+Lamps after 9. Not ceiling lights.
+
+Bright room light tells your body it's still daytime.
+
+In a lab study, ordinary room light before bed delayed melatonin, the sleep hormone, in almost everyone.
+
+Tonight at 9: ceiling lights off. One low lamp on.
+
+What's the brightest light in your evening?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #eveningroutine #energy #habits
+
+Source: Gooley et al. 2011, "Exposure to room light before bedtime suppresses melatonin onset and shortens melatonin duration in humans", Journal of Clinical Endocrinology & Metabolism 96(3):E463-E472, doi 10.1210/jc.2010-2098: room light (<200 lux) vs dim light (<3 lux) before bedtime delayed melatonin onset in 99% of participants. Behavioural sleep-hygiene point, not medical advice.
