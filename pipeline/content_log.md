@@ -52,7 +52,7 @@ One row per asset. Status: `ready` (made, not queued), `scheduled`, `sent`, `err
 | 2026-11-08 | 18:00 | reel | Mindset | Use a checklist, not your memory (Haynes et al. 2009; 16.6 s, contrast hook) | media/2026-11-08/operatorhabits_2026-11-08_reel.mp4 | 6aed793686fe9b83797a9faa | sent |
 | 2026-11-09 | 18:00 | reel | Energy | Bedroom cool, not warm (heat and sleep, Okamoto-Mizuno & Mizuno 2012; 14.7 s, contrast hook) | media/2026-11-09/operatorhabits_2026-11-09_reel.mp4 | 6aeeca65004e4879a73b91df | sent |
 | 2026-11-10 | 18:00 | reel | Focus | Set a date, not someday (self-set deadlines, Ariely & Wertenbroch 2002; 17.4 s, contrast hook) | media/2026-11-10/operatorhabits_2026-11-10_reel.mp4 | 6af01c0b9214322f683836e3 | sent |
-| 2026-11-11 | 18:00 | reel | Money | Wait a day, not one click (24-hour rule for purchases over €50; 17.5 s, contrast hook, screenshot step) | media/2026-11-11/operatorhabits_2026-11-11_reel.mp4 | 6af16ded796ccae2668c2e97 | scheduled |
+| 2026-11-11 | 18:00 | reel | Money | Wait a day, not one click (24-hour rule for purchases over €50; 17.5 s, contrast hook, screenshot step) | media/2026-11-11/operatorhabits_2026-11-11_reel.mp4 | 6af16ded796ccae2668c2e97 | sent |
 
 Notes:
 - 2026-11-09: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
@@ -65,3 +65,4 @@ Notes:
 - 2026-10-16 (later): Mateo says a Pexels key is not available for now. Keep making content without stock footage and do not notify him about the missing key again; mention it only in the Monday report until a key appears in the environment.
 | 2026-11-12 | 18:00 | reel | Focus | Write it down, not a new tab (park mid-task thoughts, Masicampo & Baumeister 2011; 20.2 s, contrast hook, screenshot step) | media/2026-11-12/operatorhabits_2026-11-12_reel.mp4 | 6af2bf40b59b34913a5fb376 | scheduled |
 | 2026-11-13 | 18:00 | reel | Energy | Lamps after 9, not ceiling lights (evening room light and melatonin, Gooley et al. 2011; 19.7 s, contrast hook, screenshot step) | media/2026-11-13/operatorhabits_2026-11-13_reel.mp4 | 6af41081095081ea08beb258 | scheduled |
+| 2026-11-14 | 18:00 | reel | Mindset | Log the win, not just the list (small-wins progress diary, Amabile & Kramer 2011; 18.9 s, contrast hook, screenshot step) | media/2026-11-14/operatorhabits_2026-11-14_reel.mp4 | 6af56228016d3b89d8abbdec | scheduled |
