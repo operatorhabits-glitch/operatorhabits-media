@@ -734,3 +734,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #eveningroutine #energy #habits
 
 Source: Gooley et al. 2011, "Exposure to room light before bedtime suppresses melatonin onset and shortens melatonin duration in humans", Journal of Clinical Endocrinology & Metabolism 96(3):E463-E472, doi 10.1210/jc.2010-2098: room light (<200 lux) vs dim light (<3 lux) before bedtime delayed melatonin onset in 99% of participants. Behavioural sleep-hygiene point, not medical advice.
+
+## 2026-11-14 reel — Log the win, not just the list (Mindset, 18.9 s, contrast hook, screenshot step)
+Log the win. Not just the list.
+
+A to-do list only shows what's left.
+
+In a study of 12,000 work diary entries, the best workdays were the days people made progress, even small.
+
+Before you close the laptop: write one thing you moved forward today.
+
+What did you move forward this week?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #entrepreneurmindset #systems #productivitytips #habits
+
+Source: Amabile & Kramer 2011, "The Power of Small Wins", Harvard Business Review 89(5):70-80 (book: The Progress Principle, 2011): about 12,000 daily diary entries from 238 knowledge workers in 7 companies; making progress in meaningful work was the event most often linked to their best days. Workplace-behaviour finding, not health advice.

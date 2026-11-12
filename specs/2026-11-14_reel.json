@@ -1,0 +1,10 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 150, "lines": ["Log the *win.", "Not just the *list."]},
+  {"size": 118, "lines": ["A to-do list only shows what's *left."]},
+  {"size": 112, "lines": ["In a study of *12,000|twelve_thousand work diary entries, the best days were days with *progress, even small."]},
+  {"size": 112, "lines": ["Before you close the laptop: write *one thing you moved forward."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
