@@ -1,0 +1,10 @@
+{
+ "shift": 5,
+ "scenes": [
+  {"size": 150, "lines": ["Late invoice? *Day 1.", "Not day *30."]},
+  {"size": 118, "lines": ["Every week you wait makes the ask more *awkward."]},
+  {"size": 112, "lines": ["Often the client just *forgot. A short reminder is *normal business."]},
+  {"size": 108, "lines": ["Set a reminder for the day after it's due. Send *two lines: invoice number, amount, *new date."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

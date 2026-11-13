@@ -751,3 +751,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #entrepreneurmindset #systems #productivitytips #habits
 
 Source: Amabile & Kramer 2011, "The Power of Small Wins", Harvard Business Review 89(5):70-80 (book: The Progress Principle, 2011): about 12,000 daily diary entries from 238 knowledge workers in 7 companies; making progress in meaningful work was the event most often linked to their best days. Workplace-behaviour finding, not health advice.
+
+## 2026-11-15 reel — Late invoice? Day 1, not day 30 (Money, 19.5 s, contrast hook, screenshot step)
+Late invoice? Day 1. Not day 30.
+
+Every week you wait makes the ask more awkward.
+
+Often the client just forgot. A short reminder is normal business.
+
+Set a reminder for the day after it's due. Send two lines: invoice number, amount, new date.
+
+How many days do you usually wait before chasing a payment?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #freelancebusiness #smallbusiness #habits
+
+Source: no research claim; practical cash-collection habit. No income promise.
