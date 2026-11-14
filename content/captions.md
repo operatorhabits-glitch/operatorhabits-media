@@ -768,3 +768,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #freelancebusiness #smallbusiness #habits
 
 Source: no research claim; practical cash-collection habit. No income promise.
+
+## 2026-11-16 reel — Book in bed, not your phone (Energy, 16.4 s, contrast hook, screenshot step)
+Book in bed. Not your phone.
+
+A bright screen at night tells your brain it's still day.
+
+In a sleep lab study, people who read on a tablet before bed took longer to fall asleep and felt less alert the next morning than when they read a paper book.
+
+Tonight: phone charger in the kitchen. A paper book by the bed.
+
+What's the last thing you look at before you sleep?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #eveningroutine #energy #habits
+
+Source: Chang, Aeschbach, Duffy & Czeisler 2015, "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness", PNAS 112(4):1232–1237 (12 adults, 2-week inpatient crossover: reading on an iPad vs a printed book before bed; with the tablet they took longer to fall asleep, had delayed melatonin and were less alert the next morning). Small lab study; general sleep-hygiene habit, not medical advice.

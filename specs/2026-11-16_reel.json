@@ -1,0 +1,36 @@
+{
+ "shift": 2,
+ "scenes": [
+  {
+   "size": 150,
+   "lines": [
+    "Book in bed.",
+    "Not your *phone."
+   ]
+  },
+  {
+   "size": 118,
+   "lines": [
+    "A bright screen at night tells your brain it's *day."
+   ]
+  },
+  {
+   "size": 112,
+   "lines": [
+    "In a lab study, tablet readers fell asleep *later than *paper readers."
+   ]
+  },
+  {
+   "size": 112,
+   "lines": [
+    "Tonight: charger in the *kitchen. A *paper book by the bed."
+   ]
+  },
+  {
+   "size": 128,
+   "lines": [
+    "Follow for *one habit a day."
+   ]
+  }
+ ]
+}
