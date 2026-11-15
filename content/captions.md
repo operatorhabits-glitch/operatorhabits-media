@@ -785,3 +785,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #eveningroutine #energy #habits
 
 Source: Chang, Aeschbach, Duffy & Czeisler 2015, "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness", PNAS 112(4):1232–1237 (12 adults, 2-week inpatient crossover: reading on an iPad vs a printed book before bed; with the tablet they took longer to fall asleep, had delayed melatonin and were less alert the next morning). Small lab study; general sleep-hygiene habit, not medical advice.
+
+## 2026-11-17 reel — Hard task first, not your inbox (Focus, 13.8 s, contrast hook, screenshot step, short-reel test)
+Hard task first. Not your inbox.
+
+Open email first and your best hour goes to other people's priorities.
+
+The inbox will still be there at 10. Your sharpest focus might not be.
+
+Tomorrow: 60 minutes on the hard task. Then email.
+
+What's the first thing you open at your desk?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: no research claim; practical work-order habit.
