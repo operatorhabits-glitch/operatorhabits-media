@@ -802,3 +802,18 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: no research claim; practical work-order habit.
+
+## 2026-11-18 reel — Write why, not just what (Mindset, 12.3 s, contrast hook, screenshot step, short-reel test; no research claim)
+Write why. Not just what.
+
+In 3 months you won't remember why you decided.
+
+So you can't tell a bad call from bad luck.
+
+Next big decision: write one line. The choice, why, and what you expect to happen. Check it in 3 months.
+
+What's a decision you'd like to see your reasoning on again?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #entrepreneurmindset #decisionmaking #systems #habits
