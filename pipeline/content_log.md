@@ -69,4 +69,6 @@ Notes:
 | 2026-11-15 | 18:00 | reel | Money | Late invoice? Day 1, not day 30 (chase overdue invoices the day after the due date; 19.5 s, contrast hook, screenshot step) | media/2026-11-15/operatorhabits_2026-11-15_reel.mp4 | 6af6b3b7ba218f3263835995 | sent |
 | 2026-11-16 | 18:00 | reel | Energy | Book in bed, not your phone (tablet vs paper book before sleep, Chang et al. 2015; 16.4 s, contrast hook, screenshot step) | media/2026-11-16/operatorhabits_2026-11-16_reel.mp4 | 6af804ff4b28296eb13dbe0f | scheduled |
 | 2026-11-17 | 18:00 | reel | Focus | Hard task first, not your inbox (work order, no research claim; 13.8 s, contrast hook, screenshot step, short-reel test) | media/2026-11-17/operatorhabits_2026-11-17_reel.mp4 | 6af95651b9a106584c911bc4 | scheduled |
-| 2026-11-18 | 18:00 | reel | Mindset | Write why, not just what (one-line decision log; 12.3 s, contrast hook, screenshot step, short-reel test, no research claim) | media/2026-11-18/operatorhabits_2026-11-18_reel.mp4 | PENDING | ready |
+| 2026-11-18 | 18:00 | reel | Mindset | Write why, not just what (one-line decision log; 12.3 s, contrast hook, screenshot step, short-reel test, no research claim) | media/2026-11-18/operatorhabits_2026-11-18_reel.mp4 | 6afaa8168e87c256a3ba99ac | scheduled |
+
+- 2026-11-16: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
