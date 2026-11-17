@@ -817,3 +817,18 @@ What's a decision you'd like to see your reasoning on again?
 Follow @operatorhabits for one habit a day.
 
 #founderhabits #entrepreneurmindset #decisionmaking #systems #habits
+
+## 2026-11-19 reel — Unsubscribe tonight, not at checkout (Money, 12.9 s, contrast hook, short-reel test; evening phone-style action; no research claim)
+Unsubscribe tonight. Not at checkout.
+
+Sale season fills your inbox and phone with reasons to buy.
+
+Every shop email is a nudge you didn't ask for.
+
+Tonight: 5 minutes. Search your inbox for "unsubscribe" and leave every shop list. Turn off shop app notifications too.
+
+Which shop emails you the most?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #spending #smallbusiness #habits
