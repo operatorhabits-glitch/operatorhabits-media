@@ -68,9 +68,11 @@ Notes:
 | 2026-11-14 | 18:00 | reel | Mindset | Log the win, not just the list (small-wins progress diary, Amabile & Kramer 2011; 18.9 s, contrast hook, screenshot step) | media/2026-11-14/operatorhabits_2026-11-14_reel.mp4 | 6af56228016d3b89d8abbdec | sent |
 | 2026-11-15 | 18:00 | reel | Money | Late invoice? Day 1, not day 30 (chase overdue invoices the day after the due date; 19.5 s, contrast hook, screenshot step) | media/2026-11-15/operatorhabits_2026-11-15_reel.mp4 | 6af6b3b7ba218f3263835995 | sent |
 | 2026-11-16 | 18:00 | reel | Energy | Book in bed, not your phone (tablet vs paper book before sleep, Chang et al. 2015; 16.4 s, contrast hook, screenshot step) | media/2026-11-16/operatorhabits_2026-11-16_reel.mp4 | 6af804ff4b28296eb13dbe0f | sent |
-| 2026-11-17 | 18:00 | reel | Focus | Hard task first, not your inbox (work order, no research claim; 13.8 s, contrast hook, screenshot step, short-reel test) | media/2026-11-17/operatorhabits_2026-11-17_reel.mp4 | 6af95651b9a106584c911bc4 | scheduled |
+| 2026-11-17 | 18:00 | reel | Focus | Hard task first, not your inbox (work order, no research claim; 13.8 s, contrast hook, screenshot step, short-reel test) | media/2026-11-17/operatorhabits_2026-11-17_reel.mp4 | 6af95651b9a106584c911bc4 | sent |
 | 2026-11-18 | 18:00 | reel | Mindset | Write why, not just what (one-line decision log; 12.3 s, contrast hook, screenshot step, short-reel test, no research claim) | media/2026-11-18/operatorhabits_2026-11-18_reel.mp4 | 6afaa8168e87c256a3ba99ac | scheduled |
 | 2026-11-19 | 18:00 | reel | Money | Unsubscribe tonight, not at checkout (leave shop email lists and mute shop app notifications; 12.9 s, contrast hook, short-reel test, no research claim) | media/2026-11-19/operatorhabits_2026-11-19_reel.mp4 | 6afbf99682a2d4951bedc93c | scheduled |
+| 2026-11-20 | 18:00 | reel | Energy | Water at night, not a nightcap (alcohol and second-half sleep, Ebrahim et al. 2013; 12.4 s, contrast hook, short-reel test) | media/2026-11-20/operatorhabits_2026-11-20_reel.mp4 | 6afd4afde7dde8d4fcd14ae1 | scheduled |
 
 - 2026-11-16: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
 - 2026-11-17: daily run done (Tuesday, no report per weekly cadence). Queue: reels 11-17, 11-18, 11-19 at 18:00; carousels still paused.
+- 2026-11-18: daily run done (Wednesday, no report per weekly cadence). Queue: reels 11-18, 11-19, 11-20 at 18:00; carousels still paused.
