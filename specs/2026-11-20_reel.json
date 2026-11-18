@@ -1,0 +1,9 @@
+{
+ "shift": 0,
+ "scenes": [
+  {"size": 150, "lines": ["Water at night.", "Not a *nightcap."]},
+  {"size": 118, "lines": ["A drink helps you drop off, then breaks up the second half of your *sleep."]},
+  {"size": 112, "lines": ["Tonight: last drink with *dinner. Then *water."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

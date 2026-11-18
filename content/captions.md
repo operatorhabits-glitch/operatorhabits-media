@@ -832,3 +832,20 @@ Which shop emails you the most?
 Follow @operatorhabits for one habit a day.
 
 #founderhabits #moneyhabits #spending #smallbusiness #habits
+
+## 2026-11-20 reel — Water at night, not a nightcap (Energy, 12.4 s, contrast hook, short-reel test)
+Water at night. Not a nightcap.
+
+A drink can help you fall asleep faster.
+
+But research reviews find alcohol before bed disrupts the second half of the night, including less dream (REM) sleep.
+
+Tonight: last drink with dinner. Then water.
+
+What's your usual Friday-night wind-down?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #eveningroutine #energy #habits
+
+Source: Ebrahim IO, Shapiro CM, Williams AJ, Fenwick PB. "Alcohol and sleep I: effects on normal sleep." Alcoholism: Clinical and Experimental Research, 2013;37(4):539–549 (review: alcohol shortens time to fall asleep and disrupts second-half sleep, reducing REM). No medical advice; general habit only.
