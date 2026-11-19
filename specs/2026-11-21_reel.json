@@ -1,0 +1,9 @@
+{
+ "shift": 0,
+ "scenes": [
+  {"size": 150, "lines": ["No in one line.", "Not a long *excuse."]},
+  {"size": 118, "lines": ["A long excuse invites *negotiation. A short no is *clear."]},
+  {"size": 108, "lines": ["Try: \"Thanks, I can't take this on *right *now.\""]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

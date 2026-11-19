@@ -849,3 +849,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #eveningroutine #energy #habits
 
 Source: Ebrahim IO, Shapiro CM, Williams AJ, Fenwick PB. "Alcohol and sleep I: effects on normal sleep." Alcoholism: Clinical and Experimental Research, 2013;37(4):539–549 (review: alcohol shortens time to fall asleep and disrupts second-half sleep, reducing REM). No medical advice; general habit only.
+
+## 2026-11-21 reel — No in one line, not a long excuse (Mindset, 13.2 s, contrast hook, short-reel test, no research claim)
+No in one line. Not a long excuse.
+
+A long excuse gives the other person something to argue with.
+
+A short, polite no is clearer and kinder than a maybe.
+
+Next request you can't take on: "Thanks, I can't take this on right now." Nothing more.
+
+What's the request you said yes to but wish you hadn't?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #entrepreneurmindset #boundaries #timemanagement #habits
+
+Source: none needed (communication habit, no research claim).
