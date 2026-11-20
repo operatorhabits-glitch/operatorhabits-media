@@ -866,3 +866,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #entrepreneurmindset #boundaries #timemanagement #habits
 
 Source: none needed (communication habit, no research claim).
+
+## 2026-11-22 reel — Monday: 3 tasks, not 10 (Focus, 12.0 s, contrast hook, short-reel test, no research claim)
+Monday: 3 tasks. Not 10.
+
+A list of 10 means none of them get your best hours.
+
+Three you finish beat ten you start.
+
+Tonight: write the 3 that matter most for Monday. Park the rest on a "later" list.
+
+What's the one task Monday can't end without?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: none needed (planning habit, no research claim).
