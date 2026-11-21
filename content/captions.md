@@ -883,3 +883,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: none needed (planning habit, no research claim).
+
+## 2026-11-23 reel — Laptop on the desk, not in bed (Energy, 12.6 s, contrast hook, short-reel test)
+Laptop on the desk. Not in bed.
+
+Answer email in bed and your bed starts to mean work.
+
+Sleep specialists' standard advice for better sleep: keep the bed for sleep.
+
+Tonight: close the laptop and leave it on the desk.
+
+Where does your laptop sleep?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #eveningroutine #energy #habits
+
+Source: stimulus control (bed used for sleep only) is a recommended behavioural treatment in the American Academy of Sleep Medicine clinical practice guideline (Edinger et al., J Clin Sleep Med 2021;17(2):255–262). General habit advice, not medical advice.

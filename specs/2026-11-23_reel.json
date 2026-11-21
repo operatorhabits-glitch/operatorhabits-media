@@ -1,0 +1,9 @@
+{
+ "shift": 0,
+ "scenes": [
+  {"size": 150, "lines": ["Laptop on the desk.", "Not in *bed."]},
+  {"size": 118, "lines": ["Email in bed teaches your brain: *bed means *work."]},
+  {"size": 108, "lines": ["Tonight: laptop *closed, on the *desk. Bed is for *sleep."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
