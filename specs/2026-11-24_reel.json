@@ -1,0 +1,9 @@
+{
+ "shift": 2,
+ "scenes": [
+  {"size": 140, "lines": ["Checking email", "*30 times a day?"]},
+  {"size": 118, "lines": ["Every check pulls you *out of the *work."]},
+  {"size": 108, "lines": ["Tomorrow: email at *10,|ten, *1|one and *4.|four. Closed in between."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

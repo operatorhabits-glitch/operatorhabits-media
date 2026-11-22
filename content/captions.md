@@ -900,3 +900,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #eveningroutine #energy #habits
 
 Source: stimulus control (bed used for sleep only) is a recommended behavioural treatment in the American Academy of Sleep Medicine clinical practice guideline (Edinger et al., J Clin Sleep Med 2021;17(2):255–262). General habit advice, not medical advice.
+
+## 2026-11-24 reel — Checking email 30 times a day? (Focus, 11.7 s, question-hook test, short reel)
+Checking email 30 times a day?
+
+Every check pulls you out of the work you were doing.
+
+In a two-week study, people who checked email only 3 times a day felt less stressed than when they checked as often as they liked.
+
+Tomorrow: email at 10, 1 and 4. Closed in between.
+
+How many times did you open your inbox today?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Kushlev & Dunn, "Checking email less frequently reduces stress", Computers in Human Behavior 43 (2015) 220–228. General habit advice, not medical advice.
