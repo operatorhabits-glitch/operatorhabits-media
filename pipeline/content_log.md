@@ -76,7 +76,7 @@ Notes:
 | 2026-11-22 | 18:00 | reel | Focus | Monday: 3 tasks, not 10 (Sunday-evening plan for Monday, park the rest on a later list; 12.0 s, contrast hook, short-reel test, no research claim) | media/2026-11-22/operatorhabits_2026-11-22_reel.mp4 | 6affee397b0a126cebb45571 | sent |
 | 2026-11-23 | 18:00 | reel | Energy | Laptop on the desk, not in bed (keep the bed for sleep; AASM guideline, Edinger et al. 2021; 12.6 s, contrast hook, short-reel test) | media/2026-11-23/operatorhabits_2026-11-23_reel.mp4 | 6b013f5c9ffbc8503c043bec | scheduled |
 | 2026-11-24 | 18:00 | reel | Focus | Checking email 30 times a day? (email 3 times a day, Kushlev & Dunn 2015; 11.7 s, question-hook test, short reel) | media/2026-11-24/operatorhabits_2026-11-24_reel.mp4 | 6b0290ced864a01105a22d56 | scheduled |
-| 2026-11-25 | 18:00 | reel | Money | Paying yourself whatever's left? (fixed owner pay on a fixed day; 11.2 s, question-hook test, short reel, no research claim) | media/2026-11-25/operatorhabits_2026-11-25_reel.mp4 | PENDING | scheduled |
+| 2026-11-25 | 18:00 | reel | Money | Paying yourself whatever's left? (fixed owner pay on a fixed day; 11.2 s, question-hook test, short reel, no research claim) | media/2026-11-25/operatorhabits_2026-11-25_reel.mp4 | 6b03e254846b0ee907edcd8f | scheduled |
 
 - 2026-11-16: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
 - 2026-11-17: daily run done (Tuesday, no report per weekly cadence). Queue: reels 11-17, 11-18, 11-19 at 18:00; carousels still paused.
@@ -85,3 +85,4 @@ Notes:
 - 2026-11-20: daily run done (Friday, no report per weekly cadence). Queue: reels 11-20, 11-21, 11-22 at 18:00; carousels still paused.
 - 2026-11-21: daily run done (Saturday, no report per weekly cadence). Queue: reels 11-21, 11-22, 11-23 at 18:00; carousels still paused.
 - 2026-11-22: daily run done (Sunday, no report per weekly cadence). Queue: reels 11-22, 11-23, 11-24 at 18:00; carousels still paused.
+- 2026-11-23: daily run done; Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check). Queue: reels 11-23, 11-24, 11-25 at 18:00; carousels still paused.
