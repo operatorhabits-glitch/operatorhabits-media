@@ -917,3 +917,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Kushlev & Dunn, "Checking email less frequently reduces stress", Computers in Human Behavior 43 (2015) 220–228. General habit advice, not medical advice.
+
+## 2026-11-25 reel — Paying yourself whatever's left? (Money, 11.2 s, question-hook test, short reel, no research claim)
+Paying yourself whatever's left?
+
+Whatever's left changes every month, so you never know what you can count on.
+
+A fixed owner pay, on a fixed day, turns your own pay into a bill the business plans for.
+
+This week: pick an amount the business can carry and a date. Pay yourself first, then run the business on the rest.
+
+What day of the month do you pay yourself?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #smallbusiness #cashflow #habits
+
+Source: general cash-habit advice, no research claim. Not financial advice; no income promise.

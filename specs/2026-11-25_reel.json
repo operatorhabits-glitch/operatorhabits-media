@@ -1,0 +1,9 @@
+{
+ "shift": 3,
+ "scenes": [
+  {"size": 140, "lines": ["Paying yourself", "*whatever's *left?"]},
+  {"size": 118, "lines": ["Whatever's left is *never a *plan."]},
+  {"size": 108, "lines": ["Pick a *fixed amount and a *fixed day. Pay *yourself first."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}
