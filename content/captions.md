@@ -934,3 +934,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #moneyhabits #smallbusiness #cashflow #habits
 
 Source: general cash-habit advice, no research claim. Not financial advice; no income promise.
+
+## 2026-11-26 reel — Breaks spent scrolling your phone? (Focus, 10.9 s, question-hook test, short reel)
+Breaks spent scrolling your phone?
+
+It feels like a rest. Your brain is still taking in a screen.
+
+In one study, people who spent a short break on their phone did worse on the next task than people who took a break without one.
+
+Next break: stand up, look out a window or walk for 5 minutes. Phone stays on the desk.
+
+What do you usually do on a 5-minute break?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: Kang & Kurtzberg, "Reach for your cell phone at your own risk: The cognitive costs of media choice for breaks", Journal of Behavioral Addictions 8(3) (2019) 395–403. General habit advice, not medical advice.
