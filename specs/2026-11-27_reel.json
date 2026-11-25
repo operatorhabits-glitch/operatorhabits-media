@@ -1,0 +1,9 @@
+{
+ "shift": 0,
+ "scenes": [
+  {"size": 140, "lines": ["Dinner at *10|ten,", "bed at *11?|eleven?"]},
+  {"size": 118, "lines": ["A big meal late *makes *sleep *harder."]},
+  {"size": 108, "lines": ["Tonight: *big meal *early. A light snack if you're hungry later."]},
+  {"size": 128, "lines": ["Follow for *one habit a day."]}
+ ]
+}

@@ -951,3 +951,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: Kang & Kurtzberg, "Reach for your cell phone at your own risk: The cognitive costs of media choice for breaks", Journal of Behavioral Addictions 8(3) (2019) 395–403. General habit advice, not medical advice.
+
+## 2026-11-27 reel — Dinner at 10, bed at 11? (Energy, 11.4 s, question-hook test, short reel)
+Dinner at 10, bed at 11?
+
+A big meal right before bed can make it harder to sleep well.
+
+Sleep doctors' standard advice: avoid a large meal before bedtime. If you're hungry later, have a light snack.
+
+Tonight: eat your big meal earlier. Keep the late-night food small.
+
+What time do you usually eat dinner?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #sleephabits #eveningroutine #energy #habits
+
+Source: American Academy of Sleep Medicine, Healthy Sleep Habits (sleepeducation.org): "Avoid eating a large meal before bedtime. If you are hungry at night, eat a light, healthy snack."
