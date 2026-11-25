@@ -78,7 +78,7 @@ Notes:
 | 2026-11-24 | 18:00 | reel | Focus | Checking email 30 times a day? (email 3 times a day, Kushlev & Dunn 2015; 11.7 s, question-hook test, short reel) | media/2026-11-24/operatorhabits_2026-11-24_reel.mp4 | 6b0290ced864a01105a22d56 | sent |
 | 2026-11-25 | 18:00 | reel | Money | Paying yourself whatever's left? (fixed owner pay on a fixed day; 11.2 s, question-hook test, short reel, no research claim) | media/2026-11-25/operatorhabits_2026-11-25_reel.mp4 | 6b03e254846b0ee907edcd8f | scheduled |
 | 2026-11-26 | 18:00 | reel | Focus | Breaks spent scrolling your phone? (phone-free short breaks, Kang & Kurtzberg 2019; 10.9 s, question-hook test, short reel) | media/2026-11-26/operatorhabits_2026-11-26_reel.mp4 | 6b0533fc286252d7383d96b7 | scheduled |
-| 2026-11-27 | 18:00 | reel | Energy | Dinner at 10, bed at 11? (big meal early, light snack later; AASM healthy sleep habits; 11.4 s, question-hook test, short reel) | media/2026-11-27/operatorhabits_2026-11-27_reel.mp4 | PENDING | scheduled |
+| 2026-11-27 | 18:00 | reel | Energy | Dinner at 10, bed at 11? (big meal early, light snack later; AASM healthy sleep habits; 11.4 s, question-hook test, short reel) | media/2026-11-27/operatorhabits_2026-11-27_reel.mp4 | 6b068552b6204bca46d33c9a | scheduled |
 
 - 2026-11-16: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
 - 2026-11-17: daily run done (Tuesday, no report per weekly cadence). Queue: reels 11-17, 11-18, 11-19 at 18:00; carousels still paused.
