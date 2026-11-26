@@ -968,3 +968,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #sleephabits #eveningroutine #energy #habits
 
 Source: American Academy of Sleep Medicine, Healthy Sleep Habits (sleepeducation.org): "Avoid eating a large meal before bedtime. If you are hungry at night, eat a light, healthy snack."
+
+## 2026-11-28 reel — Checking work all weekend? (Mindset, 10.5 s, question-hook test, short reel)
+Checking work all weekend?
+
+A quick look at email keeps your head at work, even on a day off.
+
+Research on recovery finds people who mentally switch off from work in their free time feel better rested and less drained.
+
+This weekend: one full day with work apps logged out.
+
+Which work app is hardest for you to close?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #entrepreneurmindset #worklifebalance #rest #habits
+
+Source: Sonnentag & Fritz, "Recovery from job stress: The stressor-detachment model as an integrative framework", Journal of Organizational Behavior 36(S1) (2015) S72–S103. General habit advice, not medical advice.
