@@ -985,3 +985,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #entrepreneurmindset #worklifebalance #rest #habits
 
 Source: Sonnentag & Fritz, "Recovery from job stress: The stressor-detachment model as an integrative framework", Journal of Organizational Behavior 36(S1) (2015) S72–S103. General habit advice, not medical advice.
+
+## 2026-11-29 reel — Starting Monday at a messy desk? (Focus, 12.5 s, question-hook test, short reel)
+Starting Monday at a messy desk?
+
+Then the first half hour of the week goes to tidying, not working.
+
+A clear desk with one task waiting makes the start obvious.
+
+Tonight: 10 minutes. Clear the desk. Leave out only what you need for your first task.
+
+What's the first thing on your desk tomorrow?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #deepwork #focus #productivitytips #habits
+
+Source: none needed (general work-setup habit, no research claim).
