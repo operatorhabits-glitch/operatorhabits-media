@@ -1002,3 +1002,20 @@ Follow @operatorhabits for one habit a day.
 #founderhabits #deepwork #focus #productivitytips #habits
 
 Source: none needed (general work-setup habit, no research claim).
+
+## 2026-11-30 reel — Paying for apps you forgot about? (Money, 12.4 s, question-hook test, short reel, month-end)
+Paying for apps you forgot about?
+
+Small monthly charges are easy to miss, and they add up quietly.
+
+Month end is a good moment to check.
+
+Tonight: 10 minutes with last month's bank statement. Cancel every subscription you didn't use.
+
+Which subscription would you cancel first?
+
+Follow @operatorhabits for one habit a day.
+
+#founderhabits #moneyhabits #smallbusiness #spending #habits
+
+Source: none needed (general spending-review habit, no research claim).
