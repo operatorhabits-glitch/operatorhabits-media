@@ -81,7 +81,7 @@ Notes:
 | 2026-11-27 | 18:00 | reel | Energy | Dinner at 10, bed at 11? (big meal early, light snack later; AASM healthy sleep habits; 11.4 s, question-hook test, short reel) | media/2026-11-27/operatorhabits_2026-11-27_reel.mp4 | 6b068552b6204bca46d33c9a | sent |
 | 2026-11-28 | 18:00 | reel | Mindset | Checking work all weekend? (one full weekend day with work apps logged out; psychological detachment, Sonnentag & Fritz 2015; 10.5 s, question-hook test, short reel) | media/2026-11-28/operatorhabits_2026-11-28_reel.mp4 | 6b07d6a617fc84b971acb75a | scheduled |
 | 2026-11-29 | 18:00 | reel | Focus | Starting Monday at a messy desk? (Sunday-evening 10-minute desk reset, leave out only the first task; 12.5 s, question-hook test, short reel, no research claim) | media/2026-11-29/operatorhabits_2026-11-29_reel.mp4 | 6b092840062ed764a8ef397a | scheduled |
-| 2026-11-30 | 18:00 | reel | Money | Paying for apps you forgot about? (month-end 10-minute subscription check on last month's statement, cancel what you didn't use; 12.4 s, question-hook test, short reel, no research claim) | media/2026-11-30/operatorhabits_2026-11-30_reel.mp4 | PENDING | scheduled |
+| 2026-11-30 | 18:00 | reel | Money | Paying for apps you forgot about? (month-end 10-minute subscription check on last month's statement, cancel what you didn't use; 12.4 s, question-hook test, short reel, no research claim) | media/2026-11-30/operatorhabits_2026-11-30_reel.mp4 | 6b0a79cbcf6d9177300794e0 | scheduled |
 
 - 2026-11-16: Monday weekly report sent by notification (stock key still missing, carousels still paused pending Mateo's Account Status check).
 - 2026-11-17: daily run done (Tuesday, no report per weekly cadence). Queue: reels 11-17, 11-18, 11-19 at 18:00; carousels still paused.
